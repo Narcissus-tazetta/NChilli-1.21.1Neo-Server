@@ -1,0 +1,32 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "item": "minecraft:oak_planks"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "dawnoftimebuilder:waxed_oak",
+      "type": "moonlight:block_type_swap"
+    },
+    "B": {
+      "ingredient": {
+        "tag": "c:rods/wooden"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "dawnoftimebuilder:waxed_oak",
+      "type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAA",
+    " B "
+  ],
+  "result": {
+    "id": "supplementaries:dawnoftimebuilder/way_sign_waxed_oak",
+    "count": 3
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
+}

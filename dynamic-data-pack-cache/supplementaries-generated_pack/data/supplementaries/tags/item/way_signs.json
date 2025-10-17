@@ -1,0 +1,20 @@
+{
+  "values": [
+    "supplementaries:way_sign_oak",
+    "supplementaries:way_sign_spruce",
+    "supplementaries:way_sign_birch",
+    "supplementaries:way_sign_jungle",
+    "supplementaries:way_sign_acacia",
+    "supplementaries:way_sign_cherry",
+    "supplementaries:way_sign_dark_oak",
+    "supplementaries:way_sign_mangrove",
+    "supplementaries:way_sign_bamboo",
+    "supplementaries:way_sign_crimson",
+    "supplementaries:way_sign_warped",
+    "supplementaries:dawnoftimebuilder/way_sign_waxed_oak",
+    "supplementaries:dawnoftimebuilder/way_sign_charred_spruce",
+    "supplementaries:cataclysm/way_sign_chorus",
+    "supplementaries:expandeddelight/way_sign_cinnamon",
+    "supplementaries:crabbersdelight/way_sign_palm"
+  ]
+}

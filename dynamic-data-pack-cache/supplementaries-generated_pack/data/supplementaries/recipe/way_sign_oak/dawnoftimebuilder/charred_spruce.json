@@ -1,0 +1,32 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "item": "minecraft:oak_planks"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "dawnoftimebuilder:charred_spruce",
+      "type": "moonlight:block_type_swap"
+    },
+    "B": {
+      "ingredient": {
+        "tag": "c:rods/wooden"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "dawnoftimebuilder:charred_spruce",
+      "type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAA",
+    " B "
+  ],
+  "result": {
+    "id": "supplementaries:dawnoftimebuilder/way_sign_charred_spruce",
+    "count": 3
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
+}

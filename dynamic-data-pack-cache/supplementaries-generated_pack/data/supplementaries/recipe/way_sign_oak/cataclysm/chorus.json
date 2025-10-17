@@ -1,0 +1,32 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "item": "minecraft:oak_planks"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "cataclysm:chorus",
+      "type": "moonlight:block_type_swap"
+    },
+    "B": {
+      "ingredient": {
+        "tag": "c:rods/wooden"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "cataclysm:chorus",
+      "type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAA",
+    " B "
+  ],
+  "result": {
+    "id": "supplementaries:cataclysm/way_sign_chorus",
+    "count": 3
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
+}
