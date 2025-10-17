@@ -8501,6 +8501,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-10-16 23:28:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_the_recipe": "2025-10-16 23:32:07 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/orange_postbox": {
     "criteria": {
       "has_barrel": "2025-10-16 23:36:40 +0900"
@@ -8522,24 +8534,6 @@
   "create:recipes/building_blocks/crafting/logistics/lime_postbox": {
     "criteria": {
       "has_barrel": "2025-10-16 23:36:40 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2025-10-16 23:46:43 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-10-16 23:28:19 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-10-16 23:44:57 +0900"
     },
     "done": true
   },
@@ -8567,21 +8561,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_the_recipe": "2025-10-16 23:32:07 +0900"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/brown_postbox": {
     "criteria": {
       "has_barrel": "2025-10-16 23:36:40 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-10-17 00:17:52 +0900"
     },
     "done": true
   },
@@ -8633,27 +8615,9 @@
     },
     "done": true
   },
-  "someassemblyrequired:recipes/decorations/crafting_shaped/sandwiching_station": {
-    "criteria": {
-      "has_smooth_stone": "2025-10-16 23:44:57 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-10-17 00:17:52 +0900"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/purple_postbox": {
     "criteria": {
       "has_barrel": "2025-10-16 23:36:40 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-10-16 23:44:57 +0900"
     },
     "done": true
   },
@@ -8672,6 +8636,42 @@
   "create:recipes/building_blocks/crafting/logistics/light_gray_postbox": {
     "criteria": {
       "has_barrel": "2025-10-16 23:36:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-16 23:44:57 +0900"
+    },
+    "done": true
+  },
+  "someassemblyrequired:recipes/decorations/crafting_shaped/sandwiching_station": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-16 23:44:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-10-16 23:44:57 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-10-16 23:46:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-10-17 00:17:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-10-17 00:17:52 +0900"
     },
     "done": true
   },

@@ -1406,6 +1406,7 @@
       "golden_apple": "2025-10-14 17:01:06 +0900",
       "rotten_flesh": "2025-10-14 17:00:02 +0900",
       "cooked_beef": "2025-10-14 17:18:37 +0900",
+      "baked_potato": "2025-10-18 00:00:22 +0900",
       "golden_carrot": "2025-10-16 13:55:52 +0900",
       "carrot": "2025-10-14 12:56:19 +0900"
     },
@@ -10610,27 +10611,9 @@
     },
     "done": false
   },
-  "oritech:recipes/misc/crafting/charger": {
-    "criteria": {
-      "has_charger_block": "2025-10-17 13:27:55 +0900"
-    },
-    "done": true
-  },
   "oritech:recipes/misc/crafting/exojetpack": {
     "criteria": {
       "has_exo_jetpack": "2025-10-17 12:50:04 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/chargeralt": {
-    "criteria": {
-      "has_charger_block": "2025-10-17 13:27:55 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/exoboostedelytra": {
-    "criteria": {
-      "has_the_recipe": "2025-10-17 13:27:25 +0900"
     },
     "done": true
   },
@@ -10643,6 +10626,30 @@
   "oritech:recipes/misc/energite_blockblock": {
     "criteria": {
       "has_energite_ingot": "2025-10-17 13:13:09 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/exoboostedelytra": {
+    "criteria": {
+      "has_the_recipe": "2025-10-17 13:27:25 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/charger": {
+    "criteria": {
+      "has_charger_block": "2025-10-17 13:27:55 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/chargeralt": {
+    "criteria": {
+      "has_charger_block": "2025-10-17 13:27:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 00:00:14 +0900"
     },
     "done": true
   },

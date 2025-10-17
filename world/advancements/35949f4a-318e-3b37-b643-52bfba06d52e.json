@@ -1148,9 +1148,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-10-18 00:00:31 +0900",
       "minecraft:skeleton": "2025-10-16 23:55:10 +0900",
       "minecraft:silverfish": "2025-10-17 00:45:37 +0900",
-      "minecraft:zombie": "2025-10-12 23:38:25 +0900"
+      "minecraft:spider": "2025-10-17 23:56:35 +0900",
+      "minecraft:zombie": "2025-10-12 23:38:25 +0900",
+      "minecraft:creeper": "2025-10-17 23:56:08 +0900"
     },
     "done": false
   },
@@ -4376,42 +4379,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/blue_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
-    "criteria": {
-      "has_minecraft:copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2025-10-16 23:01:56 +0900"
@@ -4424,57 +4391,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/yellow_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_shelf": {
-    "criteria": {
-      "has_birch_shelf": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "createaddition:recipes/misc/crafting/digital_adapter": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-10-16 23:45:59 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
-    "criteria": {
-      "has_item": "2025-10-16 23:49:12 +0900"
     },
     "done": true
   },
@@ -4484,69 +4403,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-10-17 00:32:13 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_nightstand": {
-    "criteria": {
-      "has_birch_nightstand": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/copper_flat_bolt_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_output": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_sheet": {
-    "criteria": {
-      "has_white_sheet": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
     },
     "done": true
   },
@@ -4556,39 +4415,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/birch_storage_connector": {
-    "criteria": {
-      "has_birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_cupboard": {
-    "criteria": {
-      "has_birch_cupboard": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "minersdelight:recipes/decorations/copper_pot": {
-    "criteria": {
-      "has_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-10-17 00:32:13 +0900"
     },
     "done": true
   },
@@ -4598,57 +4427,447 @@
     },
     "done": true
   },
-  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/brown_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-17 00:47:50 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_counter": {
-    "criteria": {
-      "has_birch_counter": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-16 23:01:56 +0900"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
     "criteria": {
-      "has_lily_of_the_valley": "2025-10-17 00:44:29 +0900"
+      "has_glass_panes_colorless": "2025-10-16 23:01:56 +0900"
     },
     "done": true
   },
-  "another_furniture:recipes/black_sofa_dyeing": {
+  "computercraft:recipes/redstone/turtle_advanced_overlays/rainbow_flag": {
     "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+      "has_dye": "2025-10-16 23:01:56 +0900"
     },
     "done": true
   },
-  "another_furniture:recipes/purple_sofa_dyeing": {
+  "computercraft:recipes/redstone/turtle_normal_overlays/rainbow_flag": {
     "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/trans_flag": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_bath": {
+    "criteria": {
+      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_panes_colorless": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_toilet": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_toilet": {
+    "criteria": {
+      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/purple_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/trans_flag": {
+    "criteria": {
+      "has_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-10-16 23:06:59 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/digital_adapter": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/capacitor_1": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/capacitor_2": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_the_recipe": "2025-10-16 23:10:31 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_output": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-10-16 23:12:13 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/paintbrush": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_input": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2025-10-16 23:12:13 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_io": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
+    "criteria": {
+      "has_minecraft:oak_leaves": "2025-10-16 23:13:26 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/coal_piece_from_coal": {
+    "criteria": {
+      "has_the_recipe": "2025-10-16 23:33:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-10-16 23:45:59 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/copper_flat_bolt_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_table_cloth_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-10-16 23:49:12 +0900"
     },
     "done": true
   },
@@ -4664,45 +4883,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/horizontal_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_desk": {
-    "criteria": {
-      "has_birch_desk": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "computercraft:recipes/redstone/turtle_advanced_overlays/rainbow_flag": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
     },
     "done": true
   },
@@ -4712,63 +4895,9 @@
     },
     "done": true
   },
-  "computercraft:recipes/redstone/turtle_normal_overlays/rainbow_flag": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/lime_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smoker": {
-    "criteria": {
-      "has_furnace": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "computercraft:recipes/redstone/turtle_advanced_overlays/trans_flag": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/copper_cross_bolt_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_fancy_bed": {
-    "criteria": {
-      "has_birch_fancy_bed": "2025-10-17 00:07:13 +0900"
     },
     "done": true
   },
@@ -4778,51 +4907,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/birch_chest": {
-    "criteria": {
-      "has_the_recipe": "2025-10-16 23:10:31 +0900"
     },
     "done": true
   },
@@ -4844,69 +4931,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/green_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_table": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_sofa": {
-    "criteria": {
-      "has_the_recipe": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
-    "criteria": {
-      "has_lily_of_the_valley": "2025-10-17 00:44:29 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_purple_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-10-16 23:01:56 +0900"
     },
     "done": true
   },
@@ -4916,111 +4943,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/framed_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
   "minersdelight:recipes/food/copper_carrot": {
     "criteria": {
       "has_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-10-17 00:41:55 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_kitchen_drawer_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_drawer": {
-    "criteria": {
-      "has_birch_drawer": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_barrel": {
-    "criteria": {
-      "has_barrel": "2025-10-16 23:12:13 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_cooler_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_table": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/birch_window": {
-    "criteria": {
-      "has_ingredient": "2025-10-17 00:07:13 +0900"
     },
     "done": true
   },
@@ -5030,39 +4955,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
     },
     "done": true
   },
@@ -5072,21 +4967,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/copper_backtank": {
     "criteria": {
       "has_item": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/light_gray_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
     },
     "done": true
   },
@@ -5108,111 +4991,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/red_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/paintbrush": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tiled_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/iron_barrel_from_copper_barrel": {
-    "criteria": {
-      "has_copper_barrel": "2025-10-16 23:49:45 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_bath": {
-    "criteria": {
-      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-10-16 23:06:59 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_table": {
-    "criteria": {
-      "has_birch_table": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_stool": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
     },
     "done": true
   },
@@ -5222,39 +5003,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/orange_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-17 00:47:50 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
     },
     "done": true
   },
@@ -5264,33 +5015,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/controller": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_curtain": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-10-17 00:47:50 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_input": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
     },
     "done": true
   },
@@ -5300,39 +5027,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/gold_barrel": {
-    "criteria": {
-      "has_iron_barrel": "2025-10-16 23:50:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-10-17 00:47:50 +0900"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/light_engineering": {
     "criteria": {
       "has_copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/pink_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_side_table": {
-    "criteria": {
-      "has_birch_side_table": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
     },
     "done": true
   },
@@ -5348,93 +5045,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/copper_barrel": {
-    "criteria": {
-      "has_barrel": "2025-10-16 23:12:13 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-10-17 00:41:55 +0900"
-    },
-    "done": true
-  },
-  "xnet:recipes/misc/redstoneproxy_update": {
-    "criteria": {
-      "torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
-    "criteria": {
-      "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_drawer": {
-    "criteria": {
-      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_minecraft:copper_ingot": "2025-10-16 23:49:12 +0900"
     },
     "done": true
   },
-  "create:recipes/building_blocks/vertical_framed_glass_pane_from_glass_panes_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_panes_colorless": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/carrot_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_corner_trim": {
-    "criteria": {
-      "has_birch_corner_trim": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/large_copper_chain_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-10-17 00:47:50 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
     },
     "done": true
   },
@@ -5447,6 +5066,270 @@
   "immersiveengineering:recipes/misc/crafting/empty_casing": {
     "criteria": {
       "has_coppper_ingot": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/copper_floor_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/transmitter": {
+    "criteria": {
+      "has_item": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/decorations/copper_cup": {
+    "criteria": {
+      "has_copper": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/powerpack": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+    "criteria": {
+      "has_item": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
+    "criteria": {
+      "has_copper_ingot": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:copper_ingot": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/copper_dash_bolt_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel_from_copper_barrel": {
+    "criteria": {
+      "has_copper_barrel": "2025-10-16 23:49:45 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_barrel": {
+    "criteria": {
+      "has_iron_barrel": "2025-10-16 23:50:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_the_recipe": "2025-10-17 00:02:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_storage_connector": {
+    "criteria": {
+      "has_birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_desk": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_drawer": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_table": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_crate": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-10-17 00:07:13 +0900"
     },
     "done": true
   },
@@ -5480,21 +5363,321 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+    "criteria": {
+      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-17 00:07:13 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/blue_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/yellow_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/lime_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/green_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_the_recipe": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/red_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/orange_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/pink_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
   "another_furniture:recipes/cyan_sofa_dyeing": {
     "criteria": {
       "has_white_sofa": "2025-10-17 00:11:06 +0900"
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+  "another_furniture:recipes/magenta_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_blue_sofa_dyeing": {
+    "criteria": {
+      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
     "criteria": {
       "has_wool": "2025-10-17 00:31:25 +0900"
     },
     "done": true
   },
-  "another_furniture:recipes/magenta_sofa_dyeing": {
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
     "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-10-17 00:31:25 +0900"
     },
     "done": true
   },
@@ -5516,69 +5699,9 @@
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/copper_floor_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/oak_hedge": {
-    "criteria": {
-      "has_minecraft:oak_leaves": "2025-10-16 23:13:26 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_chair": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_io": {
-    "criteria": {
-      "has_base_tier_wooden_storage": "2025-10-16 23:12:13 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_copper_hammering": {
-    "criteria": {
-      "has_copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_toilet": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_pillar_trim": {
-    "criteria": {
-      "has_birch_pillar_trim": "2025-10-17 00:07:13 +0900"
     },
     "done": true
   },
@@ -5588,75 +5711,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/light_blue_sofa_dyeing": {
-    "criteria": {
-      "has_white_sofa": "2025-10-17 00:11:06 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_sink": {
-    "criteria": {
-      "has_minecraft:copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_chair": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_sofa_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_the_recipe": "2025-10-17 00:02:19 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_dining_bench": {
-    "criteria": {
-      "has_birch_dining_bench": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_stool_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/transmitter": {
-    "criteria": {
-      "has_item": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
     "criteria": {
       "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
-    "criteria": {
-      "has_minecraft:copper_ingot": "2025-10-16 23:49:12 +0900"
     },
     "done": true
   },
@@ -5666,57 +5723,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_tool": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_chair": {
-    "criteria": {
-      "has_birch_chair": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
     "criteria": {
       "has_wool": "2025-10-17 00:31:25 +0900"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/birch_barrel": {
-    "criteria": {
-      "has_birch_plank": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "minersdelight:recipes/decorations/copper_cup": {
-    "criteria": {
-      "has_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/powerpack": {
-    "criteria": {
-      "has_copper_ingot": "2025-10-16 23:49:12 +0900"
     },
     "done": true
   },
@@ -5732,69 +5747,9 @@
     },
     "done": true
   },
-  "createaddition:recipes/misc/crafting/capacitor_1": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "createaddition:recipes/misc/crafting/capacitor_2": {
-    "criteria": {
-      "has_redstone_torch": "2025-10-16 23:10:15 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-10-17 00:45:16 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_bench": {
-    "criteria": {
-      "has_birch_bench": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/hose_pulley": {
-    "criteria": {
-      "has_item": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-10-17 00:31:25 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
-    "criteria": {
-      "has_minecraft:birch_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_shelf": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
     },
     "done": true
   },
@@ -5804,69 +5759,183 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/purple_toilet": {
-    "criteria": {
-      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/connector_lv_relay": {
-    "criteria": {
-      "has_copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/purple_grill_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
-    "criteria": {
-      "has_minecraft:copper_ingot": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-10-17 00:07:13 +0900"
-    },
-    "done": true
-  },
-  "dndesires:recipes/misc/crafting/coal_piece_from_coal": {
-    "criteria": {
-      "has_the_recipe": "2025-10-16 23:33:51 +0900"
-    },
-    "done": true
-  },
-  "computercraft:recipes/redstone/turtle_normal_overlays/trans_flag": {
-    "criteria": {
-      "has_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/copper_dash_bolt_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-10-16 23:49:12 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/purple_kitchen_sink": {
-    "criteria": {
-      "has_minecraft:purple_dye": "2025-10-16 23:01:56 +0900"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2025-10-17 00:31:25 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-10-17 00:32:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-10-17 00:32:13 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-10-17 00:41:55 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-10-17 00:41:55 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-10-17 00:44:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-10-17 00:44:29 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/carrot_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-17 00:45:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-10-17 00:45:16 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-17 00:47:50 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-17 00:47:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-10-17 00:47:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-10-17 00:47:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-10-17 00:47:50 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-10-17 00:47:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-10-17 23:49:16 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/chicken_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-17 23:45:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-10-17 23:43:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-10-17 23:49:16 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-10-17 23:45:25 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-17 23:45:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-10-17 23:45:32 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_diamond_barrel": "2025-10-17 23:43:58 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-17 23:45:32 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2025-10-17 23:54:08 +0900"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/food/seagrass_salad": {
+    "criteria": {
+      "has_bowl": "2025-10-17 23:45:32 +0900"
     },
     "done": true
   },
