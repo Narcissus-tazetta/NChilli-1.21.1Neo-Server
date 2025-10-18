@@ -62,15 +62,16 @@
       "minecraft:pillager": "2025-10-12 23:49:09 +0900",
       "minecraft:skeleton": "2025-10-12 23:03:15 +0900",
       "minecraft:phantom": "2025-10-13 01:52:49 +0900",
+      "minecraft:witch": "2025-10-16 02:55:11 +0900",
+      "minecraft:husk": "2025-10-12 23:48:58 +0900",
+      "minecraft:shulker": "2025-10-16 01:08:27 +0900",
+      "minecraft:piglin": "2025-10-18 17:48:26 +0900",
       "minecraft:silverfish": "2025-10-12 23:37:23 +0900",
       "minecraft:enderman": "2025-10-16 20:09:32 +0900",
-      "minecraft:witch": "2025-10-16 02:55:11 +0900",
       "minecraft:endermite": "2025-10-16 20:17:13 +0900",
       "minecraft:spider": "2025-10-13 00:10:26 +0900",
       "minecraft:zombie": "2025-10-09 23:52:26 +0900",
-      "minecraft:creeper": "2025-10-12 23:16:31 +0900",
-      "minecraft:husk": "2025-10-12 23:48:58 +0900",
-      "minecraft:shulker": "2025-10-16 01:08:27 +0900"
+      "minecraft:creeper": "2025-10-12 23:16:31 +0900"
     },
     "done": false
   },
@@ -7334,7 +7335,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-10-16 00:27:29 +0900",
-      "minecraft:nether_wastes": "2025-10-16 00:27:03 +0900"
+      "minecraft:nether_wastes": "2025-10-16 00:27:03 +0900",
+      "minecraft:soul_sand_valley": "2025-10-18 17:34:16 +0900",
+      "minecraft:basalt_deltas": "2025-10-18 17:34:31 +0900"
     },
     "done": false
   },
@@ -9513,6 +9516,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-10-18 16:51:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-10-18 17:28:28 +0900"
     },
     "done": true
   },
