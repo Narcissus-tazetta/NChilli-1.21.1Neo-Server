@@ -8966,6 +8966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-10-18 15:39:23 +0900"
+    },
+    "done": true
+  },
   "createaddition:recipes/misc/crafting/digital_adapter": {
     "criteria": {
       "has_brass_plate": "2025-10-18 13:48:43 +0900"
@@ -9056,6 +9062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-10-18 15:39:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-10-18 14:58:01 +0900"
@@ -9143,6 +9155,18 @@
   "dndecor:recipes/building_blocks/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-10-18 15:39:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-10-18 15:39:23 +0900"
     },
     "done": true
   },

@@ -9302,9 +9302,27 @@
     },
     "done": true
   },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2025-10-18 15:05:56 +0900"
+    },
+    "done": true
+  },
   "mekanism:fluid_tank": {
     "criteria": {
       "basic_fluid_tank": "2025-10-18 15:06:10 +0900"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-10-18 15:08:31 +0900"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-10-18 15:10:32 +0900"
     },
     "done": true
   },
@@ -9350,21 +9368,9 @@
     },
     "done": true
   },
-  "mekanism:reinforced_alloy": {
-    "criteria": {
-      "alloy_reinforced": "2025-10-18 15:10:32 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-10-18 15:19:53 +0900"
-    },
-    "done": true
-  },
-  "create:extendo_grip": {
-    "criteria": {
-      "0": "2025-10-18 15:05:56 +0900"
     },
     "done": true
   },
@@ -9392,15 +9398,27 @@
     },
     "done": true
   },
-  "create:crusher_maxed_0000": {
-    "criteria": {
-      "0": "2025-10-18 15:08:31 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_campfire_cooking": {
+    "criteria": {
+      "has_bread_slice": "2025-10-18 15:24:45 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_smelting": {
+    "criteria": {
+      "has_bread_slice": "2025-10-18 15:24:45 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_smoking": {
+    "criteria": {
+      "has_bread_slice": "2025-10-18 15:24:45 +0900"
     },
     "done": true
   },
