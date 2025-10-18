@@ -4583,6 +4583,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-10-16 13:40:57 +0900",
+      "minecraft:phantom": "2025-10-18 13:44:15 +0900",
       "minecraft:enderman": "2025-10-16 17:00:46 +0900",
       "minecraft:endermite": "2025-10-17 12:03:46 +0900",
       "minecraft:spider": "2025-10-16 15:08:26 +0900",
@@ -9168,6 +9169,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-18 13:06:35 +0900"
+    },
+    "done": true
+  },
+  "create_hypertube:recipes/misc/hypertube": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 13:49:37 +0900"
     },
     "done": true
   },

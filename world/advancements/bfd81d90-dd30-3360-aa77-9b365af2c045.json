@@ -8966,5 +8966,29 @@
     },
     "done": true
   },
+  "createaddition:recipes/misc/crafting/digital_adapter": {
+    "criteria": {
+      "has_brass_plate": "2025-10-18 13:48:43 +0900"
+    },
+    "done": true
+  },
+  "create_hypertube:recipes/misc/hypertube_entrance": {
+    "criteria": {
+      "has_brass_sheet": "2025-10-18 13:48:43 +0900"
+    },
+    "done": true
+  },
+  "create_hypertube:recipes/misc/hypertube": {
+    "criteria": {
+      "has_brass_sheet": "2025-10-18 13:48:43 +0900"
+    },
+    "done": true
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_hand": "2025-10-18 13:30:12 +0900"
+    },
+    "done": false
+  },
   "DataVersion": 3955
 }
