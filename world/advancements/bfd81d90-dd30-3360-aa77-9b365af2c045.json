@@ -8990,6 +8990,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-10-18 14:58:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-10-18 14:52:50 +0900"
+    },
+    "done": true
+  },
   "create_hypertube:recipes/misc/hypertube_entrance": {
     "criteria": {
       "has_brass_sheet": "2025-10-18 13:48:43 +0900"
@@ -9005,6 +9017,12 @@
   "create_hypertube:recipes/misc/hypertube": {
     "criteria": {
       "has_brass_sheet": "2025-10-18 13:48:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-10-18 15:16:23 +0900"
     },
     "done": true
   },
@@ -9035,6 +9053,12 @@
   "dndecor:recipes/building_blocks/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-10-18 14:58:01 +0900"
     },
     "done": true
   },
@@ -9080,6 +9104,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-10-18 14:58:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-10-18 14:58:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-10-18 14:58:01 +0900"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/layered_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
@@ -9110,6 +9152,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-10-18 14:58:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 15:14:07 +0900"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
@@ -9131,6 +9185,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-10-18 13:53:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-10-18 14:52:50 +0900"
     },
     "done": true
   },

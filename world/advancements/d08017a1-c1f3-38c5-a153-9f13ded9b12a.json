@@ -9140,6 +9140,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 13:03:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-18 13:06:35 +0900"
@@ -9152,39 +9158,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
-    "criteria": {
-      "has_item": "2025-10-18 13:18:53 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-10-18 14:31:31 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-18 13:06:35 +0900"
     },
     "done": true
   },
-  "create_hypertube:recipes/misc/hypertube_entrance": {
-    "criteria": {
-      "has_the_recipe": "2025-10-18 13:13:13 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-18 13:06:35 +0900"
-    },
-    "done": true
-  },
-  "create_hypertube:recipes/misc/hypertube": {
-    "criteria": {
-      "has_the_recipe": "2025-10-18 13:49:37 +0900"
     },
     "done": true
   },
@@ -9227,12 +9209,6 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-18 13:06:35 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/bullet_firework": {
-    "criteria": {
-      "has_firework": "2025-10-18 14:24:17 +0900"
     },
     "done": true
   },
@@ -9284,12 +9260,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
-    "criteria": {
-      "has_the_recipe": "2025-10-18 13:03:48 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-18 13:06:35 +0900"
@@ -9299,6 +9269,138 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-18 13:06:35 +0900"
+    },
+    "done": true
+  },
+  "create_hypertube:recipes/misc/hypertube_entrance": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 13:13:13 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-10-18 13:18:53 +0900"
+    },
+    "done": true
+  },
+  "create_hypertube:recipes/misc/hypertube": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 13:49:37 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/bullet_firework": {
+    "criteria": {
+      "has_firework": "2025-10-18 14:24:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-10-18 14:31:31 +0900"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-10-18 15:06:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-10-18 15:10:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2025-10-18 15:05:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
+    },
+    "done": true
+  },
+  "create:crusher_maxed_0000": {
+    "criteria": {
+      "0": "2025-10-18 15:08:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-10-18 15:19:53 +0900"
     },
     "done": true
   },

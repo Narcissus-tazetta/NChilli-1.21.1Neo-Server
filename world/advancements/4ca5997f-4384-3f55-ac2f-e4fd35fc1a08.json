@@ -10664,9 +10664,75 @@
     },
     "done": true
   },
+  "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/magenta_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/food/surf_and_turf": {
     "criteria": {
       "has_baked_potato": "2025-10-18 14:45:29 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/orange_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/light_gray_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/white_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-10-18 14:58:28 +0900"
     },
     "done": true
   },
@@ -10682,9 +10748,105 @@
     },
     "done": true
   },
+  "numismatics:recipes/misc/crafting/light_gray_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/cyan_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/purple_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-10-18 14:25:00 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/gray_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/light_blue_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_dash_bolt_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/green_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_flat_bolt_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_floor_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/magenta_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-10-18 15:03:14 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/black_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/printer": {
+    "criteria": {
+      "brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/blue_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
     },
     "done": true
   },
@@ -10694,15 +10856,213 @@
     },
     "done": true
   },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2025-10-18 15:02:29 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/cyan_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create_hypertube:recipes/misc/hyper_accelerator_small_cogwheel": {
+    "criteria": {
+      "has_precision_mechanism": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/hyper_accelerator_large_cogwheel": {
+    "criteria": {
+      "has_precision_mechanism": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/white_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/orange_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/large_brass_chain_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/purple_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/hyper_accelerator_small_cogwheel": {
+    "criteria": {
+      "has_precision_mechanism": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/bank_terminal": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/black_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/yellow_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/brown_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/red_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/pink_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-10-18 14:25:00 +0900"
     },
     "done": true
   },
+  "numismatics:recipes/misc/crafting/gray_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/red_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/light_blue_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/green_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_cross_bolt_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/lime_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/blue_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/lime_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/pink_id_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/brass_dot_bolt_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/brown_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/yellow_card": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-10-18 14:45:29 +0900"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-10-18 14:58:28 +0900"
+    },
+    "done": true
+  },
+  "create_hypertube:recipes/misc/hyper_accelerator_large_cogwheel": {
+    "criteria": {
+      "has_precision_mechanism": "2025-10-18 14:58:28 +0900"
     },
     "done": true
   },
