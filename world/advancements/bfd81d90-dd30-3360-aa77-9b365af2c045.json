@@ -718,6 +718,7 @@
       "mutton": "2025-10-13 00:41:23 +0900",
       "golden_apple": "2025-10-13 00:10:36 +0900",
       "bread": "2025-10-13 00:55:29 +0900",
+      "rotten_flesh": "2025-10-18 16:21:33 +0900",
       "glow_berries": "2025-10-12 23:58:14 +0900",
       "sweet_berries": "2025-10-18 16:20:47 +0900",
       "chorus_fruit": "2025-10-16 00:46:46 +0900",
@@ -875,11 +876,13 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "uncommon_legs": "2025-10-13 00:12:52 +0900",
+      "uncommon_chest": "2025-10-18 16:29:20 +0900",
       "kill_apothic_invader": "2025-10-13 00:12:48 +0900",
       "uncommon_hand": "2025-10-13 00:55:07 +0900",
-      "uncommon_helm": "2025-10-12 23:13:31 +0900"
+      "uncommon_helm": "2025-10-12 23:13:31 +0900",
+      "uncommon_feet": "2025-10-18 16:29:29 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -9075,9 +9078,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-10-18 16:51:05 +0900"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-10-18 16:51:04 +0900"
     },
     "done": true
   },
@@ -9219,6 +9234,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-10-18 16:51:05 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
@@ -9252,6 +9273,18 @@
   "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-10-18 16:32:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-10-18 16:51:04 +0900"
     },
     "done": true
   },
@@ -9329,7 +9362,10 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
-      "rare_hand": "2025-10-18 13:30:12 +0900"
+      "rare_chest": "2025-10-18 16:29:20 +0900",
+      "rare_legs": "2025-10-18 16:31:26 +0900",
+      "rare_hand": "2025-10-18 13:30:12 +0900",
+      "rare_feet": "2025-10-18 16:29:29 +0900"
     },
     "done": false
   },
