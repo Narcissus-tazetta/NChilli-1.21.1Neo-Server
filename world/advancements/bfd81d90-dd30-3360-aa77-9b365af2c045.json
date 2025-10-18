@@ -8984,11 +8984,29 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-10-18 14:02:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-10-18 14:02:01 +0900"
+    },
+    "done": true
+  },
   "apotheosis:progression/summit": {
     "criteria": {
       "rare_hand": "2025-10-18 13:30:12 +0900"
     },
     "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-10-18 13:53:20 +0900"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

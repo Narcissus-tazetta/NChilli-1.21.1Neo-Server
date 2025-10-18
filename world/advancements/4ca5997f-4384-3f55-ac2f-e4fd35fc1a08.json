@@ -1371,7 +1371,8 @@
       "minecraft:spider": "2025-10-14 13:34:49 +0900",
       "minecraft:wither_skeleton": "2025-10-16 16:11:51 +0900",
       "minecraft:zombie": "2025-10-14 13:21:51 +0900",
-      "minecraft:creeper": "2025-10-14 17:16:53 +0900"
+      "minecraft:creeper": "2025-10-14 17:16:53 +0900",
+      "minecraft:husk": "2025-10-18 14:07:37 +0900"
     },
     "done": false
   },
@@ -4079,10 +4080,12 @@
     "criteria": {
       "uncommon_chest": "2025-10-14 18:09:58 +0900",
       "uncommon_legs": "2025-10-16 12:34:57 +0900",
+      "kill_apothic_invader": "2025-10-18 14:07:37 +0900",
       "uncommon_hand": "2025-10-14 15:27:02 +0900",
-      "uncommon_helm": "2025-10-16 12:34:57 +0900"
+      "uncommon_helm": "2025-10-16 12:34:57 +0900",
+      "uncommon_feet": "2025-10-18 14:07:43 +0900"
     },
-    "done": false
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {

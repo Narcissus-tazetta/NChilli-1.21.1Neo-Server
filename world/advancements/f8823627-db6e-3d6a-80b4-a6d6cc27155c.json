@@ -10687,15 +10687,183 @@
     },
     "done": true
   },
-  "dndesires:recipes/misc/crafting/fan_catalyst/smoking_sail": {
+  "mekanismgenerators:heat_generator": {
     "criteria": {
-      "has_campfire": "2025-10-18 13:38:22 +0900"
+      "heat_generator": "2025-10-18 13:12:05 +0900"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-10-18 13:23:33 +0900"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-10-18 13:32:26 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/fan_catalyst/smoking_sail": {
+    "criteria": {
+      "has_campfire": "2025-10-18 13:38:22 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-10-18 13:38:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 13:41:44 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 13:41:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
+    "criteria": {
+      "has_light_blue_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
+    "criteria": {
+      "has_orange_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
+    "criteria": {
+      "has_lime_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
+    "criteria": {
+      "has_purple_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_sheet_from_green_dye": {
+    "criteria": {
+      "has_green_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
+    "criteria": {
+      "has_cyan_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_sheet_from_red_dye": {
+    "criteria": {
+      "has_red_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
+    "criteria": {
+      "has_yellow_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
+    "criteria": {
+      "has_blue_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
+    "criteria": {
+      "has_magenta_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
+    "criteria": {
+      "has_pink_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_sheet_from_white_dye": {
+    "criteria": {
+      "has_white_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
+    "criteria": {
+      "has_brown_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_sheet_from_gray_dye": {
+    "criteria": {
+      "has_gray_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_sheet_from_black_dye": {
+    "criteria": {
+      "has_black_sheet": "2025-10-18 13:41:51 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-10-18 13:44:31 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-10-18 13:44:31 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-10-18 13:44:31 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-10-18 13:44:31 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-10-18 13:44:31 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-10-18 13:44:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-10-18 13:44:31 +0900"
     },
     "done": true
   },
@@ -10723,39 +10891,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_blue_sheet_from_light_blue_dye": {
-    "criteria": {
-      "has_light_blue_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/white_sheet": {
-    "criteria": {
-      "has_the_recipe": "2025-10-18 13:41:46 +0900"
-    },
-    "done": true
-  },
   "xnet:recipes/misc/advanced_connector_green": {
     "criteria": {
       "chest": "2025-10-18 13:47:55 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_sheet_from_orange_dye": {
-    "criteria": {
-      "has_orange_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_sheet_from_lime_dye": {
-    "criteria": {
-      "has_lime_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_sheet_from_purple_dye": {
-    "criteria": {
-      "has_purple_sheet": "2025-10-18 13:41:51 +0900"
     },
     "done": true
   },
@@ -10765,27 +10903,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_sheet_from_green_dye": {
-    "criteria": {
-      "has_green_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
   "xnet:recipes/misc/connector_red_dye": {
     "criteria": {
       "chest": "2025-10-18 13:47:55 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_sheet_from_cyan_dye": {
-    "criteria": {
-      "has_cyan_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_sheet_from_red_dye": {
-    "criteria": {
-      "has_red_sheet": "2025-10-18 13:41:51 +0900"
     },
     "done": true
   },
@@ -10798,24 +10918,6 @@
   "xnet:recipes/misc/connector_green": {
     "criteria": {
       "chest": "2025-10-18 13:47:55 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_sheet_from_yellow_dye": {
-    "criteria": {
-      "has_yellow_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_sofa": {
-    "criteria": {
-      "has_wool": "2025-10-18 13:44:31 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_tall_stool": {
-    "criteria": {
-      "has_wool": "2025-10-18 13:44:31 +0900"
     },
     "done": true
   },
@@ -10843,45 +10945,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_sheet_from_blue_dye": {
-    "criteria": {
-      "has_blue_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_stool": {
-    "criteria": {
-      "has_wool": "2025-10-18 13:44:31 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_sheet_from_magenta_dye": {
-    "criteria": {
-      "has_magenta_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_sheet_from_pink_dye": {
-    "criteria": {
-      "has_pink_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/white_curtain": {
-    "criteria": {
-      "has_wool": "2025-10-18 13:44:31 +0900"
-    },
-    "done": true
-  },
   "xnet:recipes/misc/netcable_blue_dye": {
     "criteria": {
       "chest": "2025-10-18 13:47:55 +0900"
-    },
-    "done": true
-  },
-  "mekanism:metallurgic_infuser": {
-    "criteria": {
-      "metallurgic_infuser": "2025-10-18 13:32:26 +0900"
     },
     "done": true
   },
@@ -10894,18 +10960,6 @@
   "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
     "criteria": {
       "has_vanilla_chest": "2025-10-18 13:47:55 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_the_recipe": "2025-10-18 13:41:44 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_sheet_from_light_gray_dye": {
-    "criteria": {
-      "has_light_gray_sheet": "2025-10-18 13:41:51 +0900"
     },
     "done": true
   },
@@ -10927,12 +10981,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/white_cushion": {
-    "criteria": {
-      "has_white_cushion": "2025-10-18 13:44:31 +0900"
-    },
-    "done": true
-  },
   "xnet:recipes/misc/connector_blue": {
     "criteria": {
       "chest": "2025-10-18 13:47:55 +0900"
@@ -10945,63 +10993,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_sheet_from_white_dye": {
-    "criteria": {
-      "has_white_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-10-18 13:38:22 +0900"
-    },
-    "done": true
-  },
   "xnet:recipes/misc/connector_green_dye": {
     "criteria": {
       "chest": "2025-10-18 13:47:55 +0900"
     },
     "done": true
   },
-  "another_furniture:recipes/white_lamp": {
-    "criteria": {
-      "has_wool": "2025-10-18 13:44:31 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-10-18 13:44:31 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_sheet_from_brown_dye": {
-    "criteria": {
-      "has_brown_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
-  "mekanismgenerators:heat_generator": {
-    "criteria": {
-      "heat_generator": "2025-10-18 13:12:05 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_sheet_from_gray_dye": {
-    "criteria": {
-      "has_gray_sheet": "2025-10-18 13:41:51 +0900"
-    },
-    "done": true
-  },
   "xnet:recipes/misc/connector_routing": {
     "criteria": {
       "chest": "2025-10-18 13:47:55 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_sheet_from_black_dye": {
-    "criteria": {
-      "has_black_sheet": "2025-10-18 13:41:51 +0900"
     },
     "done": true
   },
