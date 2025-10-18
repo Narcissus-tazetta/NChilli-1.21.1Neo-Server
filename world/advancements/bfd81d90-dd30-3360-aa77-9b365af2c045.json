@@ -8994,6 +8994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
@@ -9012,6 +9018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
@@ -9024,9 +9036,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_blackstone_brick_stairs_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
     },
     "done": true
   },
@@ -9048,9 +9078,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "create_hypertube:recipes/misc/hypertube": {
     "criteria": {
       "has_brass_sheet": "2025-10-18 13:48:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
     },
     "done": true
   },
@@ -9072,9 +9120,21 @@
     },
     "done": true
   },
+  "rftoolsbase:recipes/misc/tablet": {
+    "criteria": {
+      "quartz": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/plate": {
+    "criteria": {
+      "has_minecraft:quartz_block": "2025-10-18 17:08:05 +0900"
     },
     "done": true
   },
@@ -9090,6 +9150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-10-18 16:51:04 +0900"
@@ -9102,9 +9168,39 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/small_blackstone_brick_slab_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_blackstone_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/blackstone_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_brick_stairs_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
     },
     "done": true
   },
@@ -9138,15 +9234,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_blackstone_wall_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-10-18 14:48:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_slab_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_stairs_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_blackstone_bricks_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
     },
     "done": true
   },
@@ -9162,6 +9300,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_blackstone_brick_wall_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
@@ -9171,6 +9321,18 @@
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
     },
     "done": true
   },
@@ -9186,6 +9348,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/blackstone_pillar_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/polished_cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
@@ -9198,15 +9366,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-10-18 14:58:01 +0900"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-10-18 14:58:01 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-10-18 17:19:00 +0900"
     },
     "done": true
   },
@@ -9228,9 +9414,21 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/layered_blackstone_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/layered_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
     },
     "done": true
   },
@@ -9246,9 +9444,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_blackstone_wall_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
     },
     "done": true
   },
@@ -9264,6 +9474,12 @@
     },
     "done": true
   },
+  "dndecor:recipes/building_blocks/cut_blackstone_brick_wall_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
@@ -9273,6 +9489,18 @@
   "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_blackstone_slab_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
     },
     "done": true
   },
@@ -9312,9 +9540,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_bricks_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_blackstone_stairs_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-10-18 17:08:05 +0900"
     },
     "done": true
   },
@@ -9324,9 +9588,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "dndecor:recipes/building_blocks/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-18 14:41:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
     },
     "done": true
   },
@@ -9354,9 +9636,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-10-18 17:08:05 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_blackstone_brick_slab_from_stone_types_blackstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_blackstone": "2025-10-18 17:19:00 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2025-10-18 16:17:07 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-10-18 17:19:00 +0900"
     },
     "done": true
   },
