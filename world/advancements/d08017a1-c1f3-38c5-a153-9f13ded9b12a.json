@@ -9422,6 +9422,18 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-10-18 16:20:40 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_item": "2025-10-18 16:42:49 +0900"
+    },
+    "done": true
+  },
   "apothic_enchanting:30ench": {
     "criteria": {
       "enchanted_item": "2025-10-18 17:18:33 +0900"
@@ -9434,21 +9446,9 @@
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2025-10-18 16:20:40 +0900"
-    },
-    "done": true
-  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-10-18 17:18:33 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/dough": {
-    "criteria": {
-      "has_item": "2025-10-18 16:42:49 +0900"
     },
     "done": true
   },
