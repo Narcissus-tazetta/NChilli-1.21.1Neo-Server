@@ -8655,9 +8655,93 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
-      "has_fried_egg": "2025-10-17 19:27:07 +0900"
+      "has_moss_block": "2025-10-17 16:39:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-10-17 16:39:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-10-17 16:39:15 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/factory_gauge_clear": {
+    "criteria": {
+      "has_item": "2025-10-17 17:01:04 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_the_recipe": "2025-10-17 17:03:54 +0900"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-10-17 17:04:21 +0900"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/misc/smithing/blaze_enchanter": {
+    "criteria": {
+      "has_blaze_burner": "2025-10-17 17:04:21 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smoking/bread": {
+    "criteria": {
+      "has_item": "2025-10-17 17:16:33 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/bread": {
+    "criteria": {
+      "has_item": "2025-10-17 17:16:33 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-10-17 17:16:33 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-10-17 17:16:33 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2025-10-17 17:16:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-10-17 17:17:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-10-17 17:17:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-10-17 17:17:21 +0900"
     },
     "done": true
   },
@@ -8667,15 +8751,75 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+  "create_connected:recipes/misc/crafting/kinetics/six_way_gearbox_from_gearbox": {
     "criteria": {
-      "beef_patty": "2025-10-17 19:24:34 +0900"
+      "has_item": "2025-10-17 17:23:55 +0900"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
+  "oritech:recipes/misc/crafting/pump": {
     "criteria": {
-      "has_the_recipe": "2025-10-17 17:03:54 +0900"
+      "has_pump_block": "2025-10-17 17:29:36 +0900"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2025-10-17 18:16:00 +0900"
+    },
+    "done": true
+  },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-10-17 18:16:01 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_the_recipe": "2025-10-17 18:18:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-10-17 18:43:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-10-17 18:43:34 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_stonecutter_upgrade_from_backpack_stonecutter_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-10-17 18:52:49 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-10-17 18:52:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_the_recipe": "2025-10-17 19:01:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2025-10-17 19:01:28 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-10-17 19:14:59 +0900"
     },
     "done": true
   },
@@ -8691,75 +8835,15 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_stonecutter_upgrade_from_backpack_stonecutter_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2025-10-17 18:52:49 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smoking/bread": {
-    "criteria": {
-      "has_item": "2025-10-17 17:16:33 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2025-10-17 19:24:37 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-10-17 17:17:21 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
-    "criteria": {
-      "has_the_recipe": "2025-10-17 18:52:49 +0900"
-    },
-    "done": true
-  },
-  "create:steam_engine": {
-    "criteria": {
-      "0": "2025-10-17 18:16:01 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-10-17 19:23:49 +0900"
     },
     "done": true
   },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-10-17 17:04:21 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-10-17 19:24:37 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_the_recipe": "2025-10-17 19:01:28 +0900"
-    },
-    "done": true
-  },
   "another_furniture:recipes/gray_tall_stool": {
     "criteria": {
       "has_wool": "2025-10-17 19:23:49 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_the_recipe": "2025-10-17 19:01:22 +0900"
     },
     "done": true
   },
@@ -8781,51 +8865,15 @@
     },
     "done": true
   },
-  "create:water_supply": {
-    "criteria": {
-      "0": "2025-10-17 18:16:00 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-10-17 16:39:15 +0900"
-    },
-    "done": true
-  },
   "another_furniture:recipes/gray_stool": {
     "criteria": {
       "has_wool": "2025-10-17 19:23:49 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-10-17 18:43:34 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-10-17 19:23:49 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/pump": {
-    "criteria": {
-      "has_pump_block": "2025-10-17 17:29:36 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
-    "criteria": {
-      "has_the_recipe": "2025-10-17 18:18:14 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/bread": {
-    "criteria": {
-      "has_item": "2025-10-17 17:16:33 +0900"
     },
     "done": true
   },
@@ -8841,99 +8889,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2025-10-17 19:24:37 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-10-17 19:24:32 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-10-17 17:17:21 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/cake": {
-    "criteria": {
-      "has_item": "2025-10-17 17:16:33 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-10-17 19:24:34 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-10-17 19:24:32 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/campfire_cooking/bread": {
-    "criteria": {
-      "has_item": "2025-10-17 17:16:33 +0900"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/toast_with_egg": {
-    "criteria": {
-      "has_fried_egg": "2025-10-17 19:27:07 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-10-17 19:24:32 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-10-17 19:23:49 +0900"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/misc/smithing/blaze_enchanter": {
-    "criteria": {
-      "has_blaze_burner": "2025-10-17 17:04:21 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-10-17 18:43:34 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-10-17 16:39:15 +0900"
-    },
-    "done": true
-  },
-  "create_connected:recipes/misc/crafting/kinetics/six_way_gearbox_from_gearbox": {
-    "criteria": {
-      "has_item": "2025-10-17 17:23:55 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/logistics/factory_gauge_clear": {
-    "criteria": {
-      "has_item": "2025-10-17 17:01:04 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2025-10-17 19:24:34 +0900"
     },
     "done": true
   },
@@ -8949,21 +8907,75 @@
     },
     "done": true
   },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-10-17 19:14:59 +0900"
-    },
-    "done": true
-  },
   "another_furniture:recipes/gray_sofa": {
     "criteria": {
       "has_wool": "2025-10-17 19:23:49 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
     "criteria": {
-      "has_moss_block": "2025-10-17 16:39:15 +0900"
+      "cooked_chicken_cuts": "2025-10-17 19:24:32 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-10-17 19:24:32 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-10-17 19:24:32 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-10-17 19:24:34 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-10-17 19:24:34 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-10-17 19:24:34 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-10-17 19:24:37 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-10-17 19:24:37 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-10-17 19:24:37 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-10-17 19:27:07 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_egg": {
+    "criteria": {
+      "has_fried_egg": "2025-10-17 19:27:07 +0900"
     },
     "done": true
   },
@@ -8973,15 +8985,153 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/slime_ball": {
+  "create:recipes/misc/crafting/logistics/content_observer": {
     "criteria": {
-      "has_item": "2025-10-17 17:16:33 +0900"
+      "has_item": "2025-10-18 10:34:32 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "create:recipes/misc/crafting/logistics/display_link": {
     "criteria": {
-      "has_raw_copper": "2025-10-17 17:17:21 +0900"
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/vendor": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "numismatics:recipes/misc/crafting/brass_depositor": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/omni_gearbox": {
+    "criteria": {
+      "has_casing": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/redstone/crafting/portable_energy_interface": {
+    "criteria": {
+      "has_brass_casing": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/redstone/crafting/modular_accumulator": {
+    "criteria": {
+      "has_brass_casing": "2025-10-18 10:34:32 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/vertical_six_way_gearbox_from_conversion": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 10:38:57 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/inverted_gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-18 10:39:36 +0900"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-10-18 10:40:08 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/six_way_gearbox_from_conversion": {
+    "criteria": {
+      "has_the_recipe": "2025-10-18 10:41:04 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-10-18 10:41:07 +0900"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-10-18 10:41:07 +0900"
+    },
+    "done": true
+  },
+  "create:train_casing_00": {
+    "criteria": {
+      "0": "2025-10-18 10:42:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-10-18 10:45:44 +0900"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-10-18 10:47:29 +0900"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-10-18 11:00:25 +0900"
     },
     "done": true
   },

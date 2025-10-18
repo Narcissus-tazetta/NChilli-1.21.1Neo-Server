@@ -37,12 +37,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-10-18 10:59:17 +0900",
+      "minecraft:beach": "2025-10-18 10:53:01 +0900",
       "minecraft:desert": "2025-10-16 16:27:59 +0900",
       "minecraft:dark_forest": "2025-10-13 00:23:31 +0900",
+      "minecraft:forest": "2025-10-18 11:03:14 +0900",
+      "minecraft:taiga": "2025-10-18 10:45:14 +0900",
       "minecraft:sparse_jungle": "2025-10-12 23:00:19 +0900",
       "minecraft:jungle": "2025-10-16 00:06:54 +0900",
       "minecraft:river": "2025-10-13 01:03:25 +0900",
-      "minecraft:lush_caves": "2025-10-09 23:50:45 +0900"
+      "minecraft:lush_caves": "2025-10-09 23:50:45 +0900",
+      "minecraft:plains": "2025-10-18 10:59:01 +0900"
     },
     "done": false
   },
@@ -715,6 +720,7 @@
       "bread": "2025-10-13 00:55:29 +0900",
       "glow_berries": "2025-10-12 23:58:14 +0900",
       "chorus_fruit": "2025-10-16 00:46:46 +0900",
+      "cooked_beef": "2025-10-18 10:57:39 +0900",
       "beef": "2025-10-13 00:36:26 +0900",
       "baked_potato": "2025-10-13 01:25:38 +0900",
       "golden_carrot": "2025-10-13 00:45:44 +0900",
@@ -722,6 +728,7 @@
       "enchanted_golden_apple": "2025-10-13 00:12:06 +0900",
       "potato": "2025-10-13 02:17:13 +0900",
       "cooked_salmon": "2025-10-13 00:19:49 +0900",
+      "pumpkin_pie": "2025-10-18 10:50:38 +0900",
       "carrot": "2025-10-12 23:01:05 +0900"
     },
     "done": false
@@ -3095,8 +3102,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-10-18 12:35:08 +0900",
       "glow_berries": "2025-10-13 00:03:31 +0900",
-      "wheat": "2025-10-13 02:19:46 +0900"
+      "wheat": "2025-10-13 02:19:46 +0900",
+      "beetroot": "2025-10-18 12:32:28 +0900"
     },
     "done": false
   },
@@ -8672,6 +8681,288 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-10-17 00:17:52 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_warning_sign": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2025-10-18 12:49:51 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/steak_sandwich": {
+    "criteria": {
+      "has_cooked_beef": "2025-10-18 10:56:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-10-18 12:48:40 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/palm_planks": {
+    "criteria": {
+      "has_palm_logs": "2025-10-18 10:53:09 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/diamond_grit_sandpaper": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "someassemblyrequired:obtain_sandwich": {
+    "criteria": {
+      "obtain_sandwich": "2025-10-18 11:19:22 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2025-10-18 12:12:52 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/deepslate_stepping_stones": {
+    "criteria": {
+      "has_minecraft:deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/fan_catalyst/blasting_sail": {
+    "criteria": {
+      "has_lava_bucket": "2025-10-18 12:48:40 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "etched:recipes/tools/music_label": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/return_scroll": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_palm_log": "2025-10-18 10:53:09 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/blank_scroll": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-10-18 12:12:52 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/deepslate_shard": {
+    "criteria": {
+      "has_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-10-18 12:33:27 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-10-18 12:36:10 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-10-18 11:09:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-10-18 12:36:10 +0900"
     },
     "done": true
   },
