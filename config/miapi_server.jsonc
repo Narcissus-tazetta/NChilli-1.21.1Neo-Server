@@ -156,7 +156,7 @@
         In this broken state they cant do anything but repaired.
         WARNING: some anvil reworking mods break the repairing logic. Please report those issues to us.
         */
-        "full_break_modular_items": false,
+        "full_break_modular_items": true,
         /*
         Whether a miapi reload should be automatically forced on server start
         This is enabled for compat reasons, sometimes scanning recipes and other stuff during a reload isnt stable

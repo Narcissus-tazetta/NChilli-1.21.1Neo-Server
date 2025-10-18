@@ -48,14 +48,14 @@ function checkGitInitialized() {
 function backup() {
     if (!isServerReady) return;
     try {
-        server.stdin.write(`tellraw @a {"text":"サーバーをバックアップしています...","color":"green"}`)
+        server.stdin.write(`tellraw @a {"text":"サーバーをバックアップしています...","color":"green"}\n`)
         server.stdin.write(`save-all`)
 
 
         execFileSync("git", ["add", "-A"]);
-        execFileSync("git", ["commit", "-m", `"${new Date().toLocaleString("ja-JP", { hour12: false })}"`])
+        execFileSync("git", ["commit", "-m", `"${new Date().toLocaleString("ja-JP", { hour12: false })}"\n`])
         execFileSync("git", ["push"])
 
-        server.stdin.write(`tellraw @a {"text":"サーバーのバックアップが完了しました！","color":"green"}`)
+        server.stdin.write(`tellraw @a {"text":"サーバーのバックアップが完了しました！","color":"green"}\n`)
     } catch { }
 }

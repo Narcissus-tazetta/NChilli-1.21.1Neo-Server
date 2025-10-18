@@ -4584,13 +4584,15 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-10-18 14:31:31 +0900",
       "minecraft:skeleton": "2025-10-16 13:40:57 +0900",
       "minecraft:phantom": "2025-10-18 13:44:15 +0900",
       "minecraft:enderman": "2025-10-16 17:00:46 +0900",
       "minecraft:endermite": "2025-10-17 12:03:46 +0900",
       "minecraft:spider": "2025-10-16 15:08:26 +0900",
       "minecraft:zombie": "2025-10-16 13:08:47 +0900",
-      "minecraft:creeper": "2025-10-17 13:39:59 +0900"
+      "minecraft:creeper": "2025-10-17 13:39:59 +0900",
+      "minecraft:bogged": "2025-10-18 14:37:10 +0900"
     },
     "done": false
   },
@@ -9156,6 +9158,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-10-18 14:31:31 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-18 13:06:35 +0900"
@@ -9219,6 +9227,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-10-18 13:06:35 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/bullet_firework": {
+    "criteria": {
+      "has_firework": "2025-10-18 14:24:17 +0900"
     },
     "done": true
   },

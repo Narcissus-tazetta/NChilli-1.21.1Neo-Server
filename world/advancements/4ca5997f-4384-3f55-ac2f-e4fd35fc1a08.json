@@ -1403,6 +1403,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-14 17:11:12 +0900",
+      "apple": "2025-10-18 14:24:19 +0900",
       "bread": "2025-10-13 02:24:16 +0900",
       "golden_apple": "2025-10-14 17:01:06 +0900",
       "rotten_flesh": "2025-10-14 17:00:02 +0900",
@@ -10660,6 +10661,48 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_the_recipe": "2025-10-18 00:00:14 +0900"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-10-18 14:45:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-10-18 14:29:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-10-18 14:29:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-10-18 14:25:00 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-10-18 14:45:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-10-18 14:25:00 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-10-18 14:45:29 +0900"
     },
     "done": true
   },
