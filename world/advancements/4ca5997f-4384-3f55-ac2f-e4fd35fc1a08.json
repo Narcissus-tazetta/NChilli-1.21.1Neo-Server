@@ -11090,6 +11090,90 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-10-19 19:01:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-10-19 19:01:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-10-19 19:01:22 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-10-19 19:11:31 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-10-19 19:11:31 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-10-19 19:11:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-10-19 19:11:36 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-10-19 19:13:06 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_egg": {
+    "criteria": {
+      "has_wheat": "2025-10-19 19:13:06 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-10-19 19:13:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-10-19 19:13:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-10-19 19:13:06 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-10-19 19:13:06 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_minecraft:wheat": "2025-10-19 19:13:06 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2025-10-19 19:15:22 +0900"
@@ -11198,33 +11282,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_shutter": {
-    "criteria": {
-      "has_slab": "2025-10-19 19:11:31 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-10-19 19:13:06 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_egg": {
-    "criteria": {
-      "has_wheat": "2025-10-19 19:13:06 +0900"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_chair": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2025-10-19 19:15:22 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-10-19 19:13:06 +0900"
     },
     "done": true
   },
@@ -11270,57 +11330,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_the_recipe": "2025-10-19 19:11:36 +0900"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2025-10-19 19:15:22 +0900"
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_bench": {
-    "criteria": {
-      "has_slab": "2025-10-19 19:11:31 +0900"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2025-10-19 19:15:22 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-10-19 19:01:22 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-10-19 19:01:22 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-10-19 19:13:06 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-10-19 19:13:06 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/dark_oak_flower_box": {
-    "criteria": {
-      "has_slab": "2025-10-19 19:11:31 +0900"
     },
     "done": true
   },
@@ -11408,18 +11426,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-10-19 19:13:06 +0900"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/door_mat": {
-    "criteria": {
-      "has_minecraft:wheat": "2025-10-19 19:13:06 +0900"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_minecraft:dark_oak_planks": "2025-10-19 19:15:22 +0900"
@@ -11438,15 +11444,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
-    "criteria": {
-      "has_bamboo": "2025-10-19 19:01:22 +0900"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-10-19 19:15:22 +0900"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_hand": "2025-10-21 00:24:25 +0900"
+    },
+    "done": false
+  },
+  "oritech:recipes/misc/biomass_blockblockinv": {
+    "criteria": {
+      "has_biomass_block": "2025-10-21 00:31:40 +0900"
+    },
+    "done": true
+  },
+  "createenderlink:recipes/misc/scope_filter": {
+    "criteria": {
+      "has_amethyst": "2025-10-21 01:16:17 +0900"
     },
     "done": true
   },

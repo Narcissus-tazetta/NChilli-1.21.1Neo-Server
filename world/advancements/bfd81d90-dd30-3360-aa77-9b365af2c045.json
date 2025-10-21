@@ -9855,69 +9855,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
-    "criteria": {
-      "has_lapis_ore": "2025-10-19 22:19:38 +0900"
-    },
-    "done": true
-  },
   "oritech:recipes/misc/crafting/exoboots": {
     "criteria": {
       "has_exo_boots": "2025-10-19 22:05:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
-    "criteria": {
-      "has_redstone_ore": "2025-10-19 22:19:31 +0900"
-    },
-    "done": true
-  },
-  "etched:recipes/decorations/radio": {
-    "criteria": {
-      "has_music_disc": "2025-10-19 23:12:00 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
-    "criteria": {
-      "has_redstone_ore": "2025-10-19 22:19:31 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-10-19 22:11:02 +0900"
-    },
-    "done": true
-  },
-  "etched:recipes/tools/blank_music_disc": {
-    "criteria": {
-      "has_music_disc": "2025-10-19 23:12:00 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-10-19 22:19:38 +0900"
-    },
-    "done": true
-  },
-  "etched:recipes/tools/boombox": {
-    "criteria": {
-      "has_music_disc": "2025-10-19 23:12:00 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
-    "criteria": {
-      "has_deepslate_redstone_ore": "2025-10-19 22:19:38 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
-    "criteria": {
-      "has_deepslate_diamond_ore": "2025-10-19 22:11:02 +0900"
     },
     "done": true
   },
@@ -9927,9 +9867,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-10-19 22:11:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-10-19 22:11:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-10-19 22:19:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2025-10-19 22:19:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-10-19 22:19:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-10-19 22:19:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2025-10-19 22:19:38 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2025-10-19 22:19:38 +0900"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/radio": {
+    "criteria": {
+      "has_music_disc": "2025-10-19 23:12:00 +0900"
+    },
+    "done": true
+  },
+  "etched:recipes/tools/blank_music_disc": {
+    "criteria": {
+      "has_music_disc": "2025-10-19 23:12:00 +0900"
+    },
+    "done": true
+  },
+  "etched:recipes/tools/boombox": {
+    "criteria": {
+      "has_music_disc": "2025-10-19 23:12:00 +0900"
     },
     "done": true
   },

@@ -1293,6 +1293,7 @@
       "mutton": "2025-10-10 00:55:26 +0900",
       "apple": "2025-10-10 01:37:36 +0900",
       "bread": "2025-10-10 00:05:23 +0900",
+      "glow_berries": "2025-10-20 23:56:53 +0900",
       "cooked_beef": "2025-10-11 23:03:24 +0900",
       "beef": "2025-10-16 18:29:25 +0900",
       "pumpkin_pie": "2025-10-16 23:29:59 +0900",
@@ -1720,6 +1721,7 @@
       "minecraft:skeleton": "2025-10-11 22:58:54 +0900",
       "minecraft:phantom": "2025-10-19 02:27:14 +0900",
       "minecraft:witch": "2025-10-18 09:51:33 +0900",
+      "minecraft:bogged": "2025-10-20 23:47:42 +0900",
       "minecraft:hoglin": "2025-10-16 00:17:38 +0900",
       "minecraft:shulker": "2025-10-16 01:06:14 +0900",
       "minecraft:cave_spider": "2025-10-10 00:22:51 +0900",
@@ -4913,11 +4915,12 @@
     "criteria": {
       "uncommon_legs": "2025-10-20 00:14:55 +0900",
       "uncommon_chest": "2025-10-20 00:08:02 +0900",
+      "kill_apothic_invader": "2025-10-20 23:47:42 +0900",
       "uncommon_hand": "2025-10-13 23:07:56 +0900",
       "uncommon_helm": "2025-10-20 00:14:25 +0900",
       "uncommon_feet": "2025-10-20 00:07:50 +0900"
     },
-    "done": false
+    "done": true
   },
   "etched:recipes/decorations/radio": {
     "criteria": {
@@ -8315,9 +8318,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
-      "has_nether_gold_ore": "2025-10-20 00:21:27 +0900"
+      "has_raw_iron": "2025-10-19 23:27:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-10-19 23:45:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-10-19 23:45:43 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-10-20 00:04:54 +0900"
     },
     "done": true
   },
@@ -8333,27 +8354,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-10-19 23:27:51 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_boots": "2025-10-19 23:45:43 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-10-20 00:12:39 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_boots": "2025-10-19 23:45:43 +0900"
     },
     "done": true
   },
@@ -8369,15 +8372,1059 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
     "criteria": {
-      "has_copper_backpack": "2025-10-20 00:04:54 +0900"
+      "has_nether_gold_ore": "2025-10-20 00:21:27 +0900"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
     "criteria": {
       "has_nether_gold_ore": "2025-10-20 00:21:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-10-20 22:45:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_deepslate_copper_ore": {
+    "criteria": {
+      "has_deepslate_copper_ore": "2025-10-20 22:45:30 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/cooking/sweet_potato_casserole": {
+    "criteria": {
+      "has_sweet_potato": "2025-10-20 23:18:24 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/sweet_potato_salad": {
+    "criteria": {
+      "has_sweet_potato": "2025-10-20 23:18:24 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/baked_sweet_potato_from_campfire_cooking": {
+    "criteria": {
+      "baked_sweet_potato": "2025-10-20 23:18:24 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/baked_sweet_potato_from_smoking": {
+    "criteria": {
+      "baked_sweet_potato": "2025-10-20 23:18:24 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/building_blocks/sweet_potato_crate": {
+    "criteria": {
+      "has_sweet_potato": "2025-10-20 23:18:24 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/sweet_potato": {
+    "criteria": {
+      "has_sweet_potato": "2025-10-20 23:18:24 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/baked_sweet_potato": {
+    "criteria": {
+      "baked_sweet_potato": "2025-10-20 23:18:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-10-20 23:20:21 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-10-20 23:20:21 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-10-20 23:20:21 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/juicing/glow_berry_juice": {
+    "criteria": {
+      "has_berries": "2025-10-20 23:20:21 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/cooking/glow_berry_jelly": {
+    "criteria": {
+      "has_berries": "2025-10-20 23:20:21 +0900"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/glowberry_crate": {
+    "criteria": {
+      "has_glow_berries": "2025-10-20 23:20:21 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-10-20 23:20:21 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-20 23:20:21 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/glow_berry_sweet_roll": {
+    "criteria": {
+      "has_berries": "2025-10-20 23:20:21 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-10-20 23:20:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-10-20 23:20:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-10-20 23:43:08 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-20 23:43:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-10-20 23:43:08 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/creamy_pasta_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-20 23:43:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-10-20 23:43:08 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/cooked_rice_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-20 23:43:08 +0900"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_hand": "2025-10-21 00:23:19 +0900"
+    },
+    "done": false
+  },
+  "create:recipes/misc/crafting/appliances/attribute_filter_clear": {
+    "criteria": {
+      "has_item": "2025-10-21 00:52:54 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_amethyst_wall_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_amethyst_slab_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/amethyst_pillar_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_amethyst_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_amethyst_slab_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_amethyst_stairs_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_amethyst_stairs_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_amethyst_brick_stairs_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_amethyst_wall_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_amethyst_brick_slab_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/amethyst_block_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_amethyst_bricks_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_amethyst_brick_wall_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/layered_amethyst_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_amethyst_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_amethyst_brick_slab_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_amethyst_brick_wall_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_amethyst_bricks_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_amethyst_brick_stairs_from_stone_types_amethyst_stonecutting": {
+    "criteria": {
+      "has_stone_types_amethyst": "2025-10-21 00:53:52 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_basalt_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_basalt_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_basalt_brick_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_basalt_brick_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/basalt_pillar_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_bath": {
+    "criteria": {
+      "has_minecraft:gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_toilet": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_basalt_brick_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/rainbow_flag": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_toilet": {
+    "criteria": {
+      "has_minecraft:gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/rainbow_flag": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/trans_flag": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_basalt_brick_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_basin": {
+    "criteria": {
+      "has_minecraft:gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/schedule": {
+    "criteria": {
+      "has_item": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/layered_basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:oritech/fluxite": {
+    "criteria": {
+      "got_fluxite": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/fluxite_blockblock": {
+    "criteria": {
+      "has_fluxite": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_basalt_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_basalt_bricks_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_basalt_brick_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_basalt_bricks_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_basalt_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_basalt_stairs_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:gray_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_basalt_brick_slab_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_basalt_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_basalt_wall_from_stone_types_basalt_stonecutting": {
+    "criteria": {
+      "has_stone_types_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/gray_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/trans_flag": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:20 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_ceiling_light": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_toaster": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_stove": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_microwave": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_bath": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_microwave": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/birch_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_range_hood": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_fridge": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/crimson_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_range_hood": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_toaster": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_dark_ceiling_fan": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_toilet": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/spruce_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/jungle_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_fridge": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_basin": {
+    "criteria": {
+      "has_minecraft:black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/oak_dark_ceiling_fan": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_toilet": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/black_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_stove": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/dark_lightswitch": {
+    "criteria": {
+      "has_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-21 01:14:45 +0900"
+    },
+    "done": true
+  },
+  "createenderlink:recipes/misc/ender_vault": {
+    "criteria": {
+      "has_item_vault": "2025-10-21 01:14:58 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/frogport": {
+    "criteria": {
+      "has_vault": "2025-10-21 01:14:58 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/item_silo_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-21 01:14:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-10-21 01:14:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-10-21 01:14:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-10-21 01:14:59 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_barrel": {
+    "criteria": {
+      "has_gold_barrel": "2025-10-21 01:15:22 +0900"
     },
     "done": true
   },
