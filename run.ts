@@ -282,7 +282,7 @@ function setupCLI() {
         output: process.stdout,
     });
 
-    rl.on("line", (line) => {
+    rl.on("line", async (line) => {
         const cmd = line.trim();
         if (cmd === "backup") {
             void backup(false);
@@ -290,6 +290,17 @@ function setupCLI() {
         }
         if (cmd === "status") {
             log(`プレイヤー数: ${playerCount}, 最終成功: ${new Date(lastBackupSuccess).toLocaleString("ja-JP")}`);
+            return;
+        }
+        if (cmd === "stop") {
+            try {
+                await backup(false, SHUTDOWN_WAIT_SEC);
+            } catch (e) {
+                warn("stop 時のバックアップでエラー:", e);
+            }
+            try {
+                server?.stdin.write("stop\n");
+            } catch { }
             return;
         }
         server?.stdin.write(cmd + "\n");
