@@ -588,26 +588,28 @@
       "minecraft:pillager": "2025-10-11 23:09:01 +0900",
       "minecraft:blaze": "2025-10-13 01:01:33 +0900",
       "minecraft:skeleton": "2025-10-10 00:21:37 +0900",
+      "minecraft:zoglin": "2025-10-22 02:01:44 +0900",
+      "minecraft:ravager": "2025-10-14 22:21:44 +0900",
+      "minecraft:bogged": "2025-10-13 23:08:47 +0900",
+      "minecraft:vindicator": "2025-10-14 22:20:28 +0900",
+      "minecraft:magma_cube": "2025-10-13 00:40:17 +0900",
+      "minecraft:spider": "2025-10-10 00:39:10 +0900",
+      "minecraft:piglin_brute": "2025-10-13 00:28:51 +0900",
+      "minecraft:creeper": "2025-10-10 00:24:20 +0900",
       "minecraft:phantom": "2025-10-14 00:49:39 +0900",
+      "minecraft:zombified_piglin": "2025-10-22 02:01:41 +0900",
       "minecraft:witch": "2025-10-14 01:06:33 +0900",
       "minecraft:wither_skeleton": "2025-10-10 01:42:44 +0900",
-      "minecraft:ravager": "2025-10-14 22:21:44 +0900",
       "minecraft:husk": "2025-10-11 23:18:02 +0900",
-      "minecraft:bogged": "2025-10-13 23:08:47 +0900",
       "minecraft:ender_dragon": "2025-10-16 00:36:02 +0900",
       "minecraft:shulker": "2025-10-16 00:51:10 +0900",
       "minecraft:cave_spider": "2025-10-10 01:24:54 +0900",
       "minecraft:piglin": "2025-10-13 00:28:20 +0900",
-      "minecraft:vindicator": "2025-10-14 22:20:28 +0900",
       "minecraft:silverfish": "2025-10-10 01:48:42 +0900",
       "minecraft:stray": "2025-10-10 01:29:23 +0900",
       "minecraft:enderman": "2025-10-13 00:52:05 +0900",
-      "minecraft:magma_cube": "2025-10-13 00:40:17 +0900",
       "minecraft:endermite": "2025-10-16 16:43:45 +0900",
-      "minecraft:spider": "2025-10-10 00:39:10 +0900",
-      "minecraft:piglin_brute": "2025-10-13 00:28:51 +0900",
       "minecraft:zombie": "2025-10-10 01:24:05 +0900",
-      "minecraft:creeper": "2025-10-10 00:24:20 +0900",
       "minecraft:zombie_villager": "2025-10-19 23:11:26 +0900"
     },
     "done": false
@@ -670,8 +672,10 @@
       "beetroot": "2025-10-10 00:21:58 +0900",
       "golden_carrot": "2025-10-21 00:13:11 +0900",
       "apple": "2025-10-10 01:17:59 +0900",
+      "spider_eye": "2025-10-22 00:41:33 +0900",
       "cooked_chicken": "2025-10-10 00:34:36 +0900",
       "enchanted_golden_apple": "2025-10-13 00:27:04 +0900",
+      "potato": "2025-10-22 00:32:14 +0900",
       "carrot": "2025-10-10 00:25:06 +0900"
     },
     "done": false
@@ -7536,7 +7540,11 @@
   },
   "apotheosis:progression/pinnacle": {
     "criteria": {
-      "kill_ender_dragon": "2025-10-16 00:36:02 +0900"
+      "epic_legs": "2025-10-21 22:41:33 +0900",
+      "epic_feet": "2025-10-21 22:43:40 +0900",
+      "kill_ender_dragon": "2025-10-16 00:36:02 +0900",
+      "epic_hand": "2025-10-21 22:39:01 +0900",
+      "epic_helm": "2025-10-21 22:40:26 +0900"
     },
     "done": false
   },
@@ -11182,9 +11190,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+  "minecraft:adventure/minecraft_trials_edition": {
     "criteria": {
-      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
+      "minecraft_trials_edition": "2025-10-20 23:06:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-10-20 23:08:20 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/decorations/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2025-10-20 23:12:36 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2025-10-20 23:12:36 +0900"
     },
     "done": true
   },
@@ -11194,15 +11220,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
     "criteria": {
       "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
     "criteria": {
-      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
     },
     "done": true
   },
@@ -11212,15 +11280,57 @@
     },
     "done": true
   },
-  "oritech:recipes/misc/crafting/exojetpack": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
     "criteria": {
-      "has_exo_jetpack": "2025-10-20 23:30:44 +0900"
+      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate": {
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
     "criteria": {
-      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-10-20 23:30:07 +0900"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-10-20 23:30:08 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/exojetpack": {
+    "criteria": {
+      "has_exo_jetpack": "2025-10-20 23:30:44 +0900"
     },
     "done": true
   },
@@ -11242,66 +11352,6 @@
     },
     "done": true
   },
-  "apothic_spawners:root": {
-    "criteria": {
-      "spawner": "2025-10-20 23:30:08 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-10-21 01:01:40 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/under_lock_and_key": {
-    "criteria": {
-      "under_lock_and_key": "2025-10-20 23:08:20 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
-    },
-    "done": true
-  },
-  "apothic_spawners:capturing": {
-    "criteria": {
-      "egg": "2025-10-20 23:30:07 +0900"
-    },
-    "done": true
-  },
-  "minersdelight:recipes/decorations/sticky_basket": {
-    "criteria": {
-      "has_cobweb": "2025-10-20 23:12:36 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-10-21 00:14:36 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "soul_campfire": "2025-10-21 01:29:07 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-10-20 23:33:20 +0900"
@@ -11311,24 +11361,6 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-10-20 23:33:20 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/minecraft_trials_edition": {
-    "criteria": {
-      "minecraft_trials_edition": "2025-10-20 23:06:47 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/waxed_copper_bulb": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
     },
     "done": true
   },
@@ -11344,18 +11376,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2025-10-20 23:12:36 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
-    "criteria": {
-      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
-    },
-    "done": true
-  },
   "oritech:recipes/misc/packed_wheat": {
     "criteria": {
       "has_wheat": "2025-10-20 23:33:20 +0900"
@@ -11368,33 +11388,231 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+      "has_iron_backpack": "2025-10-21 00:14:36 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
-      "has_waxed_copper_block": "2025-10-20 23:29:33 +0900"
+      "has_gold_backpack": "2025-10-21 01:01:40 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/waxed_oxidized_copper_bulb": {
+  "farmersdelight:main/place_campfire": {
     "criteria": {
-      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+      "soul_campfire": "2025-10-21 01:29:07 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_waxed_oxidized_copper_stonecutting": {
+  "sophisticatedstorage:recipes/misc/storage_magnet_upgrade_from_backpack_magnet_upgrade": {
     "criteria": {
-      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+      "has_backpack_upgrade": "2025-10-21 23:47:25 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_waxed_oxidized_copper_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
     "criteria": {
-      "has_waxed_oxidized_copper": "2025-10-20 23:20:30 +0900"
+      "has_magnet_upgrade": "2025-10-21 23:47:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-10-22 00:00:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 00:03:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-10-22 00:03:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 00:04:32 +0900"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-10-22 00:15:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_dot_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_cross_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_reinforced": {
+    "criteria": {
+      "has_netherite": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/large_netherite_chain_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_flat_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_floor_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_dash_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:57:47 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 01:06:23 +0900"
+    },
+    "done": true
+  },
+  "someassemblyrequired:consume_double_decker_sandwich": {
+    "criteria": {
+      "consume_double_decker_sandwich": "2025-10-22 01:07:49 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/cooking/sweet_potato_casserole": {
+    "criteria": {
+      "has_sweet_potato": "2025-10-22 01:09:30 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/sweet_potato_salad": {
+    "criteria": {
+      "has_sweet_potato": "2025-10-22 01:09:30 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/baked_sweet_potato_from_campfire_cooking": {
+    "criteria": {
+      "baked_sweet_potato": "2025-10-22 01:09:30 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/baked_sweet_potato_from_smoking": {
+    "criteria": {
+      "baked_sweet_potato": "2025-10-22 01:09:30 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/building_blocks/sweet_potato_crate": {
+    "criteria": {
+      "has_sweet_potato": "2025-10-22 01:09:30 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/sweet_potato": {
+    "criteria": {
+      "has_sweet_potato": "2025-10-22 01:09:30 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/baked_sweet_potato": {
+    "criteria": {
+      "baked_sweet_potato": "2025-10-22 01:09:30 +0900"
     },
     "done": true
   },

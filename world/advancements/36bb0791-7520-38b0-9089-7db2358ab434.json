@@ -1718,13 +1718,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-10-22 01:58:08 +0900",
       "minecraft:skeleton": "2025-10-11 22:58:54 +0900",
       "minecraft:phantom": "2025-10-19 02:27:14 +0900",
       "minecraft:witch": "2025-10-18 09:51:33 +0900",
+      "minecraft:husk": "2025-10-21 16:43:02 +0900",
       "minecraft:bogged": "2025-10-20 23:47:42 +0900",
       "minecraft:hoglin": "2025-10-16 00:17:38 +0900",
       "minecraft:shulker": "2025-10-16 01:06:14 +0900",
       "minecraft:cave_spider": "2025-10-10 00:22:51 +0900",
+      "minecraft:breeze": "2025-10-22 01:09:02 +0900",
       "minecraft:stray": "2025-10-11 22:57:14 +0900",
       "minecraft:enderman": "2025-10-16 00:41:32 +0900",
       "minecraft:silverfish": "2025-10-16 00:12:44 +0900",
@@ -4010,6 +4013,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "red_mushroom": "2025-10-22 01:04:29 +0900",
       "pumpkin": "2025-10-19 14:21:37 +0900",
       "carrot": "2025-10-10 01:22:04 +0900"
     },
@@ -5914,7 +5918,11 @@
   },
   "apotheosis:progression/summit": {
     "criteria": {
-      "rare_hand": "2025-10-16 19:07:55 +0900"
+      "rare_hand": "2025-10-16 19:07:55 +0900",
+      "rare_chest": "2025-10-21 22:42:26 +0900",
+      "rare_legs": "2025-10-21 22:42:26 +0900",
+      "rare_helm": "2025-10-21 22:42:26 +0900",
+      "rare_feet": "2025-10-21 22:42:26 +0900"
     },
     "done": false
   },
@@ -8542,6 +8550,7 @@
   },
   "apotheosis:progression/pinnacle": {
     "criteria": {
+      "epic_feet": "2025-10-21 22:43:54 +0900",
       "epic_hand": "2025-10-21 00:23:19 +0900"
     },
     "done": false
@@ -9425,6 +9434,744 @@
   "sophisticatedstorage:recipes/misc/diamond_barrel": {
     "criteria": {
       "has_gold_barrel": "2025-10-21 01:15:22 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_spore_blossom": {
+    "criteria": {
+      "has_spore_blossom": "2025-10-22 00:09:07 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_dot_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_cross_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_reinforced": {
+    "criteria": {
+      "has_netherite": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/large_netherite_chain_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_flat_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_floor_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_dash_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-22 00:28:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-10-22 01:01:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-10-22 01:02:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-10-22 01:02:16 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-22 01:04:23 +0900"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/red_mushroom_crate": {
+    "criteria": {
+      "has_red_mushroom": "2025-10-22 01:04:23 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/cooking/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-22 01:04:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-10-22 01:04:23 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-22 01:04:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-10-22 01:04:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2025-10-22 01:06:08 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/peanut_butter_honey_sandwich": {
+    "criteria": {
+      "has_honey": "2025-10-22 01:13:48 +0900"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_honey": {
+    "criteria": {
+      "has_honey_bottle": "2025-10-22 01:13:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-10-22 01:13:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-10-22 01:13:48 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-10-22 01:13:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-10-22 01:18:41 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-10-22 01:20:25 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/cog_crank": {
+    "criteria": {
+      "has_cog": "2025-10-22 01:20:25 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/large_cog_crank": {
+    "criteria": {
+      "has_cog": "2025-10-22 01:20:25 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/cog_crank_to_large": {
+    "criteria": {
+      "has_cog": "2025-10-22 01:20:25 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-10-22 01:20:25 +0900"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-10-22 01:20:25 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-10-22 01:20:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 01:20:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-22 01:20:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 01:20:31 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-10-22 01:24:20 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-10-22 01:24:20 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-10-22 01:24:20 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/dough": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 01:26:47 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smoking/bread": {
+    "criteria": {
+      "has_item": "2025-10-22 01:31:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/bread": {
+    "criteria": {
+      "has_item": "2025-10-22 01:31:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/cake": {
+    "criteria": {
+      "has_item": "2025-10-22 01:31:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/campfire_cooking/bread": {
+    "criteria": {
+      "has_item": "2025-10-22 01:31:11 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/slime_ball": {
+    "criteria": {
+      "has_item": "2025-10-22 01:31:11 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_sink": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_white_plate": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_crockery_combo": {
+    "criteria": {
+      "has_white_crockery_combo": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_white_bowl": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_basin": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_toilet": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/mangrove_kitchen_drawer": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_white_cup": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_bath": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/white_toilet": {
+    "criteria": {
+      "has_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_minecraft:white_dye": "2025-10-22 01:31:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 01:31:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 01:36:23 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/digital_adapter": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/connector": {
+    "criteria": {
+      "has_slime_ball": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/large_connector": {
+    "criteria": {
+      "has_slime_balls": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/redstoneproxy_update": {
+    "criteria": {
+      "torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/capacitor_1": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "createaddition:recipes/misc/crafting/capacitor_2": {
+    "criteria": {
+      "has_redstone_torch": "2025-10-22 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-10-22 01:37:12 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 01:42:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_the_recipe": "2025-10-22 01:45:20 +0900"
     },
     "done": true
   },
