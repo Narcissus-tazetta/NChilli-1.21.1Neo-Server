@@ -1731,6 +1731,7 @@
       "minecraft:stray": "2025-10-11 22:57:14 +0900",
       "minecraft:enderman": "2025-10-16 00:41:32 +0900",
       "minecraft:silverfish": "2025-10-16 00:12:44 +0900",
+      "minecraft:magma_cube": "2025-10-23 00:43:48 +0900",
       "minecraft:spider": "2025-10-10 00:46:44 +0900",
       "minecraft:zombie": "2025-10-10 00:21:13 +0900",
       "minecraft:creeper": "2025-10-10 00:31:06 +0900",
@@ -4869,7 +4870,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-10-16 00:15:41 +0900",
       "minecraft:nether_wastes": "2025-10-13 00:06:16 +0900",
-      "minecraft:warped_forest": "2025-10-16 18:09:28 +0900"
+      "minecraft:warped_forest": "2025-10-16 18:09:28 +0900",
+      "minecraft:basalt_deltas": "2025-10-23 00:43:13 +0900"
     },
     "done": false
   },
@@ -10172,6 +10174,126 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_the_recipe": "2025-10-22 01:45:20 +0900"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/misc/machine_base": {
+    "criteria": {
+      "gold": "2025-10-23 00:16:09 +0900"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/netcable_yellow": {
+    "criteria": {
+      "nugget": "2025-10-23 00:16:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-23 00:17:24 +0900"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/netcable_routing": {
+    "criteria": {
+      "nugget": "2025-10-23 00:16:09 +0900"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/netcable_green": {
+    "criteria": {
+      "nugget": "2025-10-23 00:16:09 +0900"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/netcable_blue": {
+    "criteria": {
+      "nugget": "2025-10-23 00:16:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-23 00:17:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-23 00:17:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-23 00:17:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-10-23 00:11:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-23 00:17:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-10-23 00:11:19 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-23 00:16:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-23 00:17:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-23 00:17:24 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/stank": {
+    "criteria": {
+      "has_small_tank_block": "2025-10-22 23:19:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-23 00:16:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-23 00:17:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-10-23 00:17:24 +0900"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/netcable_red": {
+    "criteria": {
+      "nugget": "2025-10-23 00:16:09 +0900"
     },
     "done": true
   },
