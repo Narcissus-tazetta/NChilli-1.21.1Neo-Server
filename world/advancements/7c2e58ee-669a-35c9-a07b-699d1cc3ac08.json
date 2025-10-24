@@ -549,8 +549,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-10-23 21:52:24 +0900",
       "minecraft:sparse_jungle": "2025-10-12 23:49:23 +0900",
       "minecraft:river": "2025-10-13 00:59:05 +0900",
+      "minecraft:grove": "2025-10-23 21:52:18 +0900",
       "minecraft:lush_caves": "2025-10-13 00:29:03 +0900"
     },
     "done": false
@@ -618,10 +620,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-10-13 16:51:23 +0900",
+      "minecraft:blaze": "2025-10-23 21:26:34 +0900",
       "minecraft:phantom": "2025-10-13 01:20:50 +0900",
       "minecraft:enderman": "2025-10-16 00:31:01 +0900",
       "minecraft:spider": "2025-10-13 17:12:10 +0900",
       "minecraft:zombie": "2025-10-12 23:52:18 +0900",
+      "minecraft:hoglin": "2025-10-23 21:51:57 +0900",
       "minecraft:shulker": "2025-10-16 01:07:57 +0900"
     },
     "done": false
@@ -2848,7 +2852,9 @@
   },
   "apotheosis:progression/frontier": {
     "criteria": {
-      "common_hand": "2025-10-13 16:49:50 +0900"
+      "common_hand": "2025-10-13 16:49:50 +0900",
+      "common_chest": "2025-10-23 22:26:14 +0900",
+      "common_legs": "2025-10-23 22:20:12 +0900"
     },
     "done": false
   },
@@ -3337,9 +3343,10 @@
       "minecraft:crimson_forest": "2025-10-16 00:28:33 +0900",
       "minecraft:nether_wastes": "2025-10-16 00:27:56 +0900",
       "minecraft:soul_sand_valley": "2025-10-16 19:08:23 +0900",
-      "minecraft:basalt_deltas": "2025-10-16 19:08:35 +0900"
+      "minecraft:basalt_deltas": "2025-10-16 19:08:35 +0900",
+      "minecraft:warped_forest": "2025-10-23 21:22:29 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
@@ -6614,6 +6621,48 @@
   "another_furniture:recipes/black_curtain": {
     "criteria": {
       "has_wool": "2025-10-23 15:45:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-10-23 21:24:25 +0900"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_hand": "2025-10-23 21:47:29 +0900"
+    },
+    "done": false
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_hand": "2025-10-23 21:47:29 +0900"
+    },
+    "done": false
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-10-23 21:48:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-10-23 21:55:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-10-23 22:41:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-10-23 22:46:51 +0900"
     },
     "done": true
   },

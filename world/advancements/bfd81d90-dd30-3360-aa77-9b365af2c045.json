@@ -51,6 +51,7 @@
       "minecraft:jungle": "2025-10-16 00:06:54 +0900",
       "minecraft:ocean": "2025-10-18 23:21:46 +0900",
       "minecraft:sunflower_plains": "2025-10-18 23:25:38 +0900",
+      "minecraft:cherry_grove": "2025-10-23 23:28:59 +0900",
       "minecraft:birch_forest": "2025-10-18 23:24:55 +0900",
       "minecraft:old_growth_spruce_taiga": "2025-10-18 23:22:52 +0900",
       "minecraft:snowy_beach": "2025-10-18 23:15:15 +0900",
@@ -65,6 +66,7 @@
       "minecraft:snowy_plains": "2025-10-18 23:15:09 +0900",
       "minecraft:snowy_taiga": "2025-10-18 23:12:37 +0900",
       "minecraft:old_growth_birch_forest": "2025-10-18 23:19:33 +0900",
+      "minecraft:deep_dark": "2025-10-23 23:30:04 +0900",
       "minecraft:grove": "2025-10-18 23:17:04 +0900",
       "minecraft:swamp": "2025-10-21 11:14:10 +0900",
       "minecraft:meadow": "2025-10-22 02:03:10 +0900",
@@ -7370,9 +7372,10 @@
       "minecraft:crimson_forest": "2025-10-16 00:27:29 +0900",
       "minecraft:nether_wastes": "2025-10-16 00:27:03 +0900",
       "minecraft:soul_sand_valley": "2025-10-18 17:34:16 +0900",
-      "minecraft:basalt_deltas": "2025-10-18 17:34:31 +0900"
+      "minecraft:basalt_deltas": "2025-10-18 17:34:31 +0900",
+      "minecraft:warped_forest": "2025-10-23 21:10:50 +0900"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
@@ -10592,6 +10595,36 @@
     },
     "done": true
   },
+  "minersdelight:recipes/cooking/cooking/glow_ink_pasta": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-10-23 16:26:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-10-23 16:26:13 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_blackstone_brick_wall": {
+    "criteria": {
+      "has_small_blackstone_bricks": "2025-10-23 16:38:14 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_blackstone_brick_slab": {
+    "criteria": {
+      "has_small_blackstone_bricks": "2025-10-23 16:38:14 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_blackstone_brick_stairs": {
+    "criteria": {
+      "has_small_blackstone_bricks": "2025-10-23 16:38:14 +0900"
+    },
+    "done": true
+  },
   "xnet:recipes/misc/advanced_connector_routing": {
     "criteria": {
       "chest": "2025-10-23 16:53:17 +0900"
@@ -10622,12 +10655,6 @@
     },
     "done": true
   },
-  "minersdelight:recipes/cooking/cooking/glow_ink_pasta": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-10-23 16:26:13 +0900"
-    },
-    "done": true
-  },
   "xnet:recipes/misc/connector_blue_dye": {
     "criteria": {
       "chest": "2025-10-23 16:53:17 +0900"
@@ -10637,12 +10664,6 @@
   "xnet:recipes/misc/connector_red_dye": {
     "criteria": {
       "chest": "2025-10-23 16:53:17 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_glow_ink_sac": "2025-10-23 16:26:13 +0900"
     },
     "done": true
   },
@@ -10676,27 +10697,9 @@
     },
     "done": true
   },
-  "dndecor:recipes/building_blocks/small_blackstone_brick_wall": {
-    "criteria": {
-      "has_small_blackstone_bricks": "2025-10-23 16:38:14 +0900"
-    },
-    "done": true
-  },
   "xnet:recipes/misc/connector_red": {
     "criteria": {
       "chest": "2025-10-23 16:53:17 +0900"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/small_blackstone_brick_slab": {
-    "criteria": {
-      "has_small_blackstone_bricks": "2025-10-23 16:38:14 +0900"
-    },
-    "done": true
-  },
-  "dndecor:recipes/building_blocks/small_blackstone_brick_stairs": {
-    "criteria": {
-      "has_small_blackstone_bricks": "2025-10-23 16:38:14 +0900"
     },
     "done": true
   },
@@ -10757,6 +10760,228 @@
   "xnet:recipes/misc/connector_routing": {
     "criteria": {
       "chest": "2025-10-23 16:53:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-10-23 21:55:01 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-10-23 23:03:45 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-10-23 23:58:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-10-23 22:49:19 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-10-24 01:29:26 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-10-24 00:00:36 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_seashelf": {
+    "criteria": {
+      "heart": "2025-10-24 00:29:18 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-10-23 23:58:51 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/food/squid_sandwich": {
+    "criteria": {
+      "has_squid": "2025-10-23 22:57:14 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/resonanz_engineering": {
+    "criteria": {
+      "has_echo_shard": "2025-10-24 00:28:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-10-23 23:03:45 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-23 23:08:10 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/cooking/cooking/stuffed_squid": {
+    "criteria": {
+      "has_any_ingredient": "2025-10-23 22:57:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-10-23 22:08:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-10-24 00:33:22 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-10-23 23:33:11 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:100ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-24 00:35:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-10-23 23:03:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-10-23 23:30:42 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/food/baked_squid_smoking": {
+    "criteria": {
+      "has_squid": "2025-10-23 22:57:14 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/food/baked_squid_campfire": {
+    "criteria": {
+      "has_squid": "2025-10-23 22:57:14 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-10-23 23:08:10 +0900"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/pufferfish_barrel": {
+    "criteria": {
+      "has_pufferfish": "2025-10-23 22:56:56 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-10-24 01:28:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-10-24 01:40:06 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/food/tentacles_on_a_stick": {
+    "criteria": {
+      "has_squid": "2025-10-23 22:57:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-10-24 00:41:31 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-10-23 23:17:02 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:manual/resonanz": {
+    "criteria": {
+      "has_item": "2025-10-24 00:28:43 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/cooking/cooking/takoyaki": {
+    "criteria": {
+      "has_squid": "2025-10-23 22:57:14 +0900"
+    },
+    "done": true
+  },
+  "minersdelight:recipes/food/baked_squid": {
+    "criteria": {
+      "has_squid": "2025-10-23 22:57:14 +0900"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/salmon_barrel": {
+    "criteria": {
+      "has_salmon": "2025-10-23 23:03:45 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:80ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-24 00:00:36 +0900"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/salmon_crate": {
+    "criteria": {
+      "has_salmon": "2025-10-23 23:03:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2025-10-23 23:59:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-10-24 00:28:43 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:upgrade_endshelf": {
+    "criteria": {
+      "draconic": "2025-10-24 00:33:47 +0900"
     },
     "done": true
   },
