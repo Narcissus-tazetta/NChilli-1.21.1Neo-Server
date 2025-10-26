@@ -92,6 +92,7 @@
       "minecraft:husk": "2025-10-12 23:48:58 +0900",
       "minecraft:bogged": "2025-10-19 22:18:58 +0900",
       "minecraft:ghast": "2025-10-21 12:25:31 +0900",
+      "minecraft:ender_dragon": "2025-10-24 22:43:56 +0900",
       "minecraft:shulker": "2025-10-16 01:08:27 +0900",
       "minecraft:cave_spider": "2025-10-19 22:08:38 +0900",
       "minecraft:piglin": "2025-10-18 17:48:26 +0900",
@@ -9997,9 +9998,10 @@
       "epic_feet": "2025-10-22 02:03:45 +0900",
       "epic_hand": "2025-10-21 11:37:58 +0900",
       "epic_helm": "2025-10-22 22:58:07 +0900",
+      "kill_ender_dragon": "2025-10-24 22:43:56 +0900",
       "epic_chest": "2025-10-21 12:07:16 +0900"
     },
-    "done": false
+    "done": true
   },
   "immersiveengineering:recipes/misc/crafting/shield": {
     "criteria": {
@@ -10769,15 +10771,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_salmon": "2025-10-23 23:03:45 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:deepshelf": {
-    "criteria": {
-      "deepshelf": "2025-10-23 23:58:52 +0900"
+      "dragon_breath": "2025-10-23 22:08:56 +0900"
     },
     "done": true
   },
@@ -10787,27 +10783,9 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+  "crabbersdelight:recipes/building_blocks/pufferfish_barrel": {
     "criteria": {
-      "has_item": "2025-10-24 01:29:26 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:quanta100": {
-    "criteria": {
-      "enchanted_item": "2025-10-24 00:00:36 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:upgrade_seashelf": {
-    "criteria": {
-      "heart": "2025-10-24 00:29:18 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:quanta50": {
-    "criteria": {
-      "enchanted_item": "2025-10-23 23:58:51 +0900"
+      "has_pufferfish": "2025-10-23 22:56:56 +0900"
     },
     "done": true
   },
@@ -10817,63 +10795,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/resonanz_engineering": {
-    "criteria": {
-      "has_echo_shard": "2025-10-24 00:28:43 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-10-23 23:03:45 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:60ench": {
-    "criteria": {
-      "enchanted_item": "2025-10-23 23:08:10 +0900"
-    },
-    "done": true
-  },
   "minersdelight:recipes/cooking/cooking/stuffed_squid": {
     "criteria": {
       "has_any_ingredient": "2025-10-23 22:57:14 +0900"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-10-23 22:08:56 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/music_disc_5": {
-    "criteria": {
-      "has_disc_fragment_5": "2025-10-24 00:33:22 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-10-23 23:33:11 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:100ench": {
-    "criteria": {
-      "enchanted_item": "2025-10-24 00:35:49 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-10-23 23:03:45 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-10-23 23:30:42 +0900"
     },
     "done": true
   },
@@ -10889,51 +10813,9 @@
     },
     "done": true
   },
-  "apothic_enchanting:arcana50": {
-    "criteria": {
-      "enchanted_item": "2025-10-23 23:08:10 +0900"
-    },
-    "done": true
-  },
-  "crabbersdelight:recipes/building_blocks/pufferfish_barrel": {
-    "criteria": {
-      "has_pufferfish": "2025-10-23 22:56:56 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
-    "criteria": {
-      "has_item": "2025-10-24 01:28:02 +0900"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2025-10-24 01:40:06 +0900"
-    },
-    "done": true
-  },
   "minersdelight:recipes/food/tentacles_on_a_stick": {
     "criteria": {
       "has_squid": "2025-10-23 22:57:14 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_the_recipe": "2025-10-24 00:41:31 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:arcana100": {
-    "criteria": {
-      "enchanted_item": "2025-10-23 23:17:02 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:manual/resonanz": {
-    "criteria": {
-      "has_item": "2025-10-24 00:28:43 +0900"
     },
     "done": true
   },
@@ -10949,15 +10831,27 @@
     },
     "done": true
   },
-  "crabbersdelight:recipes/building_blocks/salmon_barrel": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-10-23 23:03:45 +0900"
     },
     "done": true
   },
-  "apothic_enchanting:80ench": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "enchanted_item": "2025-10-24 00:00:36 +0900"
+      "has_salmon": "2025-10-23 23:03:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-10-23 23:03:45 +0900"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/salmon_barrel": {
+    "criteria": {
+      "has_salmon": "2025-10-23 23:03:45 +0900"
     },
     "done": true
   },
@@ -10967,9 +10861,75 @@
     },
     "done": true
   },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-23 23:08:10 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-10-23 23:08:10 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-10-23 23:17:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-10-23 23:30:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-10-23 23:33:11 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-10-23 23:58:51 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:deepshelf": {
+    "criteria": {
+      "deepshelf": "2025-10-23 23:58:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-10-23 23:59:09 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-10-24 00:00:36 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:80ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-24 00:00:36 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/resonanz_engineering": {
+    "criteria": {
+      "has_echo_shard": "2025-10-24 00:28:43 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:manual/resonanz": {
+    "criteria": {
+      "has_item": "2025-10-24 00:28:43 +0900"
     },
     "done": true
   },
@@ -10979,9 +10939,231 @@
     },
     "done": true
   },
+  "apothic_enchanting:upgrade_seashelf": {
+    "criteria": {
+      "heart": "2025-10-24 00:29:18 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-10-24 00:33:22 +0900"
+    },
+    "done": true
+  },
   "apothic_enchanting:upgrade_endshelf": {
     "criteria": {
       "draconic": "2025-10-24 00:33:47 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:100ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-24 00:35:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2025-10-24 00:41:31 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-10-24 01:28:02 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-10-24 01:29:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-10-24 01:40:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:oritech/exo_helmet": {
+    "criteria": {
+      "got_exo_helmet": "2025-10-24 20:37:34 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/exohelm": {
+    "criteria": {
+      "has_exo_helmet": "2025-10-24 20:37:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-10-24 21:11:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-10-24 21:11:53 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-10-24 21:11:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_dot_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_cross_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete_reinforced": {
+    "criteria": {
+      "has_netherite": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/large_netherite_chain_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_flat_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_floor_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherite_dash_bolt_from_ingots_netherite_stonecutting": {
+    "criteria": {
+      "has_ingots_netherite": "2025-10-24 22:03:48 +0900"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-10-24 22:18:40 +0900"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-10-24 22:25:01 +0900"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:netherite_monstrosity": "2025-10-24 22:25:01 +0900"
+    },
+    "done": false
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-10-24 22:43:56 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-10-24 22:54:53 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-10-24 22:54:53 +0900"
     },
     "done": true
   },
