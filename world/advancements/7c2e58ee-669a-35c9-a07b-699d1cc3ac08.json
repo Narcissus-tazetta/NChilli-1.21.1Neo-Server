@@ -549,11 +549,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_ocean": "2025-10-28 01:07:52 +0900",
       "minecraft:frozen_river": "2025-10-23 21:52:24 +0900",
+      "minecraft:taiga": "2025-10-28 01:07:12 +0900",
       "minecraft:sparse_jungle": "2025-10-12 23:49:23 +0900",
       "minecraft:river": "2025-10-13 00:59:05 +0900",
       "minecraft:grove": "2025-10-23 21:52:18 +0900",
-      "minecraft:lush_caves": "2025-10-13 00:29:03 +0900"
+      "minecraft:snowy_plains": "2025-10-28 01:07:36 +0900",
+      "minecraft:lush_caves": "2025-10-13 00:29:03 +0900",
+      "minecraft:snowy_taiga": "2025-10-28 01:08:55 +0900",
+      "minecraft:snowy_beach": "2025-10-28 01:07:49 +0900"
     },
     "done": false
   },
@@ -6982,6 +6987,264 @@
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-10-26 01:49:04 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_the_recipe": "2025-10-28 00:46:36 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/inverted_gearshift_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-28 00:46:44 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-10-28 00:47:30 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/cog_crank": {
+    "criteria": {
+      "has_cog": "2025-10-28 00:47:30 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/large_cog_crank": {
+    "criteria": {
+      "has_cog": "2025-10-28 00:47:30 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/cog_crank_to_large": {
+    "criteria": {
+      "has_cog": "2025-10-28 00:47:30 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/crank_wheel": {
+    "criteria": {
+      "has_item": "2025-10-28 00:47:30 +0900"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/crafting/copycat_cogwheel": {
+    "criteria": {
+      "has_item": "2025-10-28 00:47:30 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/freewheel_clutch": {
+    "criteria": {
+      "has_item": "2025-10-28 00:47:30 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-10-28 00:47:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_the_recipe": "2025-10-28 00:51:15 +0900"
+    },
+    "done": true
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2025-10-28 01:14:12 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_stats": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_wall_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-10-28 23:58:50 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/layered_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/small_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_slab_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-10-28 23:58:50 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_bricks_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/cut_netherrack_brick_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "dndecor:recipes/building_blocks/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
+    "criteria": {
+      "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
     },
     "done": true
   },

@@ -45,6 +45,7 @@
       "minecraft:lush_caves": "2025-10-09 23:50:45 +0900",
       "minecraft:deep_cold_ocean": "2025-10-21 11:11:24 +0900",
       "minecraft:frozen_ocean": "2025-10-18 23:15:19 +0900",
+      "minecraft:eroded_badlands": "2025-10-28 23:10:12 +0900",
       "minecraft:desert": "2025-10-16 16:27:59 +0900",
       "minecraft:frozen_river": "2025-10-18 23:18:45 +0900",
       "minecraft:deep_frozen_ocean": "2025-10-21 11:11:25 +0900",
@@ -55,8 +56,11 @@
       "minecraft:birch_forest": "2025-10-18 23:24:55 +0900",
       "minecraft:old_growth_spruce_taiga": "2025-10-18 23:22:52 +0900",
       "minecraft:snowy_beach": "2025-10-18 23:15:15 +0900",
+      "minecraft:bamboo_jungle": "2025-10-29 00:45:27 +0900",
+      "minecraft:windswept_savanna": "2025-10-28 23:20:47 +0900",
       "minecraft:warm_ocean": "2025-10-18 23:42:28 +0900",
       "minecraft:deep_lukewarm_ocean": "2025-10-18 23:21:18 +0900",
+      "minecraft:badlands": "2025-10-28 23:10:17 +0900",
       "minecraft:flower_forest": "2025-10-18 10:59:17 +0900",
       "minecraft:beach": "2025-10-18 10:53:01 +0900",
       "minecraft:dark_forest": "2025-10-13 00:23:31 +0900",
@@ -96,6 +100,7 @@
       "minecraft:shulker": "2025-10-16 01:08:27 +0900",
       "minecraft:cave_spider": "2025-10-19 22:08:38 +0900",
       "minecraft:piglin": "2025-10-18 17:48:26 +0900",
+      "minecraft:vindicator": "2025-10-28 23:14:52 +0900",
       "minecraft:silverfish": "2025-10-12 23:37:23 +0900",
       "minecraft:enderman": "2025-10-16 20:09:32 +0900",
       "minecraft:stray": "2025-10-23 17:48:40 +0900",
@@ -11164,6 +11169,276 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-10-24 22:54:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-10-27 23:49:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-10-27 23:49:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-10-27 23:49:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_the_recipe": "2025-10-28 22:36:16 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-10-28 22:41:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-10-28 22:41:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-10-28 22:41:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-10-28 22:41:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-10-28 22:41:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-10-28 22:41:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-10-28 22:43:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-10-28 22:43:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-10-28 22:43:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-10-28 22:43:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-10-28 22:47:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-10-28 22:47:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-10-28 22:47:10 +0900"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-10-28 22:54:18 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-10-28 22:59:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-10-28 22:59:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-10-28 23:12:57 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-10-28 23:16:36 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/villager": {
+    "criteria": {
+      "meet_gunsmith": "2025-10-28 23:48:31 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-10-29 00:28:38 +0900"
+    },
+    "done": true
+  },
+  "xnet:recipes/misc/antenna": {
+    "criteria": {
+      "bars": "2025-10-29 00:28:38 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/food/peanut_salad": {
+    "criteria": {
+      "has_peanut": "2025-10-29 00:19:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-10-29 00:35:12 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-10-29 00:28:38 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/building_blocks/peanut_crate": {
+    "criteria": {
+      "has_peanut": "2025-10-29 00:19:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-10-29 00:04:06 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/cooking/peanut_honey_soup": {
+    "criteria": {
+      "has_peanut": "2025-10-29 00:19:39 +0900"
+    },
+    "done": true
+  },
+  "expandeddelight:recipes/cooking/peanut_butter": {
+    "criteria": {
+      "has_peanut": "2025-10-29 00:19:39 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-10-29 00:04:06 +0900"
     },
     "done": true
   },
