@@ -10475,7 +10475,8 @@
   },
   "cataclysm:kill_all_bosses": {
     "criteria": {
-      "cataclysm:netherite_monstrosity": "2025-10-23 02:27:43 +0900"
+      "cataclysm:netherite_monstrosity": "2025-10-23 02:27:43 +0900",
+      "cataclysm:ancient_remnant": "2025-10-29 23:34:03 +0900"
     },
     "done": false
   },
@@ -13926,6 +13927,84 @@
   "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
       "has_cobweb": "2025-10-29 00:32:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-30 00:09:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-30 00:09:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-30 00:09:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-10-29 23:17:27 +0900"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-10-29 23:34:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-30 00:09:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-10-30 00:09:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-10-30 00:09:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-10-30 00:09:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_bulb": {
+    "criteria": {
+      "has_copper_block": "2025-10-30 00:09:01 +0900"
+    },
+    "done": true
+  },
+  "mekanism:pump": {
+    "criteria": {
+      "electric_pump": "2025-10-30 00:19:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_grate": {
+    "criteria": {
+      "has_copper_block": "2025-10-30 00:09:01 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-10-29 23:17:27 +0900"
     },
     "done": true
   },
