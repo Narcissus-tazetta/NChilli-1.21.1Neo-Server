@@ -13930,6 +13930,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-10-29 23:17:27 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-10-29 23:17:27 +0900"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-10-29 23:34:03 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-10-30 00:09:01 +0900"
@@ -13945,18 +13963,6 @@
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-10-30 00:09:01 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2025-10-29 23:17:27 +0900"
-    },
-    "done": true
-  },
-  "cataclysm:kill_remnant": {
-    "criteria": {
-      "ignis": "2025-10-29 23:34:03 +0900"
     },
     "done": true
   },
@@ -13990,21 +13996,51 @@
     },
     "done": true
   },
-  "mekanism:pump": {
-    "criteria": {
-      "electric_pump": "2025-10-30 00:19:03 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/copper_grate": {
     "criteria": {
       "has_copper_block": "2025-10-30 00:09:01 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+  "mekanism:pump": {
     "criteria": {
-      "has_smithing_trim_template": "2025-10-29 23:17:27 +0900"
+      "electric_pump": "2025-10-30 00:19:03 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_minecraft:spruce_leaves": "2025-10-31 23:54:08 +0900"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-11-01 01:13:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-10-31 23:54:11 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 00:47:21 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-11-01 00:36:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-10-31 23:54:11 +0900"
     },
     "done": true
   },

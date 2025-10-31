@@ -14059,5 +14059,17 @@
     },
     "done": true
   },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-10-31 23:39:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 00:15:29 +0900"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

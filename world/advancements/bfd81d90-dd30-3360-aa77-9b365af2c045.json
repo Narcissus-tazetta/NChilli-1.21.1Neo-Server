@@ -11593,12 +11593,6 @@
     },
     "done": true
   },
-  "apothic_enchanting:max_stats": {
-    "criteria": {
-      "enchanted_item": "2025-10-30 23:44:09 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
     "criteria": {
       "has_netherite_block": "2025-10-30 23:22:41 +0900"
@@ -11608,6 +11602,36 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
       "has_the_recipe": "2025-10-30 23:39:48 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_stats": {
+    "criteria": {
+      "enchanted_item": "2025-10-30 23:44:09 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_uranium_to_storage_uranium": {
+    "criteria": {
+      "has_ingot_uranium": "2025-10-31 22:04:19 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_to_ingot_uranium": {
+    "criteria": {
+      "has_storage_uranium": "2025-10-31 22:04:19 +0900"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-10-31 22:04:16 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
+    "criteria": {
+      "has_uranium_ingot": "2025-10-31 22:04:19 +0900"
     },
     "done": true
   },

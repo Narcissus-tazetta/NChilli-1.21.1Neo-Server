@@ -7062,18 +7062,6 @@
     },
     "done": true
   },
-  "apothic_enchanting:30ench": {
-    "criteria": {
-      "enchanted_item": "2025-10-29 00:23:03 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:quanta100": {
-    "criteria": {
-      "enchanted_item": "2025-10-29 00:23:03 +0900"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/cut_netherrack_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
@@ -7092,33 +7080,9 @@
     },
     "done": true
   },
-  "apothic_enchanting:quanta50": {
-    "criteria": {
-      "enchanted_item": "2025-10-29 00:23:03 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:max_stats": {
-    "criteria": {
-      "enchanted_item": "2025-10-29 00:23:03 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:enchanting_stats": {
-    "criteria": {
-      "enchanted_item": "2025-10-29 00:23:03 +0900"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/polished_cut_netherrack_wall_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:60ench": {
-    "criteria": {
-      "enchanted_item": "2025-10-29 00:23:03 +0900"
     },
     "done": true
   },
@@ -7158,21 +7122,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-10-28 23:58:50 +0900"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/cut_netherrack_brick_slab_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:arcana50": {
-    "criteria": {
-      "enchanted_item": "2025-10-29 00:23:03 +0900"
     },
     "done": true
   },
@@ -7200,27 +7152,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_orange_tulip": "2025-10-28 23:58:50 +0900"
-    },
-    "done": true
-  },
-  "apothic_enchanting:arcana100": {
-    "criteria": {
-      "enchanted_item": "2025-10-29 00:23:03 +0900"
-    },
-    "done": true
-  },
   "dndecor:recipes/building_blocks/netherrack_pillar_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-10-29 00:23:03 +0900"
     },
     "done": true
   },
@@ -7245,6 +7179,72 @@
   "dndecor:recipes/building_blocks/polished_cut_netherrack_stairs_from_stone_types_netherrack_stonecutting": {
     "criteria": {
       "has_stone_types_netherrack": "2025-10-28 23:57:03 +0900"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-10-28 23:58:50 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-10-28 23:58:50 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:30ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta100": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:quanta50": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:max_stats": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:60ench": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana50": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "apothic_enchanting:arcana100": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-10-29 00:23:03 +0900"
     },
     "done": true
   },
