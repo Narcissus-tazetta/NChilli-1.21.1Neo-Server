@@ -11611,6 +11611,12 @@
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-10-31 22:04:16 +0900"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/ingot_uranium_to_storage_uranium": {
     "criteria": {
       "has_ingot_uranium": "2025-10-31 22:04:19 +0900"
@@ -11623,15 +11629,75 @@
     },
     "done": true
   },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-10-31 22:04:16 +0900"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
     "criteria": {
       "has_uranium_ingot": "2025-10-31 22:04:19 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-11-02 02:00:00 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-11-02 02:00:00 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-11-02 01:52:25 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_feeding_upgrade_from_backpack_feeding_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-11-02 02:00:00 +0900"
+    },
+    "done": true
+  },
+  "apothic_spawners:capturing": {
+    "criteria": {
+      "egg": "2025-11-02 03:10:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_the_recipe": "2025-11-02 01:59:38 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-11-02 01:52:25 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2025-11-02 03:10:35 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/redstone_link_from_conversion": {
+    "criteria": {
+      "has_the_recipe": "2025-11-02 02:52:07 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-11-02 01:52:25 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-11-02 03:10:35 +0900"
     },
     "done": true
   },
