@@ -11635,6 +11635,30 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-11-02 01:52:25 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_bench": {
+    "criteria": {
+      "has_slab": "2025-11-02 01:52:25 +0900"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-11-02 01:52:25 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_the_recipe": "2025-11-02 01:59:38 +0900"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
     "criteria": {
       "has_feeding_upgrade": "2025-11-02 02:00:00 +0900"
@@ -11647,39 +11671,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_shutter": {
-    "criteria": {
-      "has_slab": "2025-11-02 01:52:25 +0900"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/storage_feeding_upgrade_from_backpack_feeding_upgrade": {
     "criteria": {
       "has_backpack_upgrade": "2025-11-02 02:00:00 +0900"
-    },
-    "done": true
-  },
-  "apothic_spawners:capturing": {
-    "criteria": {
-      "egg": "2025-11-02 03:10:35 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_the_recipe": "2025-11-02 01:59:38 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/dark_oak_bench": {
-    "criteria": {
-      "has_slab": "2025-11-02 01:52:25 +0900"
-    },
-    "done": true
-  },
-  "create_connected:recipes/misc/crafting/kinetics/linked_transmitter_from_conversion": {
-    "criteria": {
-      "has_item": "2025-11-02 03:10:35 +0900"
     },
     "done": true
   },
@@ -11689,9 +11683,15 @@
     },
     "done": true
   },
-  "another_furniture:recipes/dark_oak_flower_box": {
+  "apothic_spawners:capturing": {
     "criteria": {
-      "has_slab": "2025-11-02 01:52:25 +0900"
+      "egg": "2025-11-02 03:10:35 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/linked_transmitter_from_conversion": {
+    "criteria": {
+      "has_item": "2025-11-02 03:10:35 +0900"
     },
     "done": true
   },

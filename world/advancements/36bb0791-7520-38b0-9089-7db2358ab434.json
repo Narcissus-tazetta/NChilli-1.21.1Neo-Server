@@ -14108,57 +14108,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+  "cataclysm:kill_ender_guardian": {
     "criteria": {
-      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+      "enderguardian": "2025-11-01 18:39:53 +0900"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/crafting_upgrade": {
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+      "has_purpur_block": "2025-11-01 18:45:54 +0900"
     },
     "done": true
   },
-  "another_furniture:recipes/jungle_bench": {
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
-      "has_slab": "2025-11-02 01:03:45 +0900"
+      "has_purpur_block": "2025-11-01 18:45:54 +0900"
     },
     "done": true
   },
-  "oritech:recipes/misc/crafting/exochest": {
+  "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
-      "has_the_recipe": "2025-11-01 21:10:48 +0900"
+      "has_purpur_block": "2025-11-01 18:45:54 +0900"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
+  "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+      "has_purpur_block": "2025-11-01 18:45:54 +0900"
     },
     "done": true
   },
-  "crabbersdelight:recipes/food/surf_and_turf": {
+  "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
-      "has_baked_potato": "2025-11-01 22:10:13 +0900"
+      "has_purpur_block": "2025-11-01 18:45:54 +0900"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
+  "dndesires:recipes/misc/crafting/fan_catalyst/dragon_breathing_sail": {
     "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+      "has_dragon_head": "2025-11-01 18:45:54 +0900"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+      "has_purpur_block": "2025-11-01 18:45:54 +0900"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
     "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+      "has_nickel_ingot": "2025-11-01 19:16:36 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2025-11-01 19:16:36 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_nickel_to_ingot_nickel": {
+    "criteria": {
+      "has_storage_nickel": "2025-11-01 19:16:36 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2025-11-01 19:16:36 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/energite_blockblock": {
+    "criteria": {
+      "has_energite_ingot": "2025-11-01 19:20:24 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/motor/advbattery": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 19:20:35 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/basicjetpack": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 19:21:36 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/basicjetpackalt": {
+    "criteria": {
+      "has_jetpack": "2025-11-01 19:34:57 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/plastic_sheet_from_smelting_polymer_resin": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 21:02:10 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/platinum_ingot_from_smelting_raw_platinum": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 21:02:56 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/platinum_ingot_from_blasting_raw_platinum": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 21:03:08 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/plastic_sheet_from_blasting_polymer_resin": {
+    "criteria": {
+      "has_polymer_resin": "2025-11-01 21:03:45 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/manualresin": {
+    "criteria": {
+      "has_polymer_resin": "2025-11-01 21:03:45 +0900"
     },
     "done": true
   },
@@ -14174,303 +14246,15 @@
     },
     "done": true
   },
-  "oritech:recipes/misc/platinum_ingot_from_smelting_raw_platinum": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 21:02:56 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/compacting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
   "oritech:recipes/misc/platinum_blockblock": {
     "criteria": {
       "has_platinum_ingot": "2025-11-01 21:08:24 +0900"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/capacitor_mv": {
-    "criteria": {
-      "has_nickel_ingot": "2025-11-01 19:16:36 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/plastic_sheet_from_smelting_polymer_resin": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 21:02:10 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
-    "criteria": {
-      "has_nickel_ingot": "2025-11-01 19:16:36 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/exojetpack": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 21:11:12 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alloybrick": {
-    "criteria": {
-      "has_brick": "2025-11-01 22:39:38 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-11-01 18:45:54 +0900"
-    },
-    "done": true
-  },
   "minecraft:oritech/plastic": {
     "criteria": {
       "got_plastic": "2025-11-01 21:08:24 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/plastic_sheet_from_blasting_polymer_resin": {
-    "criteria": {
-      "has_polymer_resin": "2025-11-01 21:03:45 +0900"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ender_guardian": {
-    "criteria": {
-      "enderguardian": "2025-11-01 18:39:53 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-11-01 22:01:17 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-11-01 18:45:54 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-11-01 22:07:21 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/compression_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2025-11-01 18:45:54 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_shutter": {
-    "criteria": {
-      "has_slab": "2025-11-02 01:03:45 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/under_lock_and_key": {
-    "criteria": {
-      "under_lock_and_key": "2025-11-01 22:05:59 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/exoboostedelytra": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 21:12:02 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2025-11-01 22:39:38 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/platinum_ingot_from_blasting_raw_platinum": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 21:03:08 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-11-01 22:39:38 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/basicjetpackalt": {
-    "criteria": {
-      "has_jetpack": "2025-11-01 19:34:57 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
-    },
-    "done": true
-  },
-  "mekanism:infusing_efficiency": {
-    "criteria": {
-      "enriched_material": "2025-11-02 01:29:45 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_slab": {
-    "criteria": {
-      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/exoboostedelytraalt": {
-    "criteria": {
-      "has_jetpack_exo_elytra": "2025-11-01 21:57:58 +0900"
     },
     "done": true
   },
@@ -14486,111 +14270,9 @@
     },
     "done": true
   },
-  "dndesires:recipes/misc/crafting/transmitter": {
-    "criteria": {
-      "has_transmitter": "2025-11-02 02:40:33 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-11-01 22:10:13 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/smelting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/generator": {
     "criteria": {
       "has_electrum_ingot": "2025-11-01 21:08:24 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/decoration_table": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "cratedelight:recipes/building_blocks/golden_carrot_crate": {
-    "criteria": {
-      "has_golden_carrot": "2025-11-01 22:07:21 +0900"
-    },
-    "done": true
-  },
-  "minecraft:oritech/exo_chest": {
-    "criteria": {
-      "got_exo_chest": "2025-11-01 21:10:49 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/basicjetpack": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 19:21:36 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/alchemy_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/_emace": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 22:46:52 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/mace": {
-    "criteria": {
-      "has_breeze_rod": "2025-11-01 22:14:26 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-11-01 22:01:17 +0900"
-    },
-    "done": true
-  },
-  "create_connected:recipes/misc/crafting/kinetics/redstone_link_wildcard": {
-    "criteria": {
-      "has_item": "2025-11-02 02:40:33 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
     },
     "done": true
   },
@@ -14600,165 +14282,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/tuff_brick_wall": {
-    "criteria": {
-      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/storage_nickel_to_ingot_nickel": {
-    "criteria": {
-      "has_storage_nickel": "2025-11-01 19:16:36 +0900"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-11-01 22:35:13 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2025-11-01 18:45:54 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/motor/advbattery": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 19:20:35 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/blasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/redstone/crafting/plating": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 21:10:38 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
-    "criteria": {
-      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/nickel_blockblock": {
-    "criteria": {
-      "has_nickel_ingot": "2025-11-01 22:46:38 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
-    "criteria": {
-      "has_purpur_block": "2025-11-01 18:45:54 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/clipboard_clear": {
-    "criteria": {
-      "has_item": "2025-11-02 02:58:35 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
   "oritech:recipes/misc/electrum_blockblock": {
     "criteria": {
       "has_electrum_ingot": "2025-11-01 21:08:24 +0900"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
-    "criteria": {
-      "has_item": "2025-11-02 02:49:59 +0900"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/oven": {
-    "criteria": {
-      "has_oven": "2025-11-01 22:39:38 +0900"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/jungle_flower_box": {
-    "criteria": {
-      "has_slab": "2025-11-02 01:03:45 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2025-11-01 23:03:05 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/waxed_copper_bulb": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-11-01 22:39:38 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_cut_copper": {
-    "criteria": {
-      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/wirecoil_electrum": {
     "criteria": {
       "has_electrum_ingot": "2025-11-01 21:08:24 +0900"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-11-01 22:21:03 +0900"
     },
     "done": true
   },
@@ -14774,9 +14306,369 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_electrum_hammering": {
+    "criteria": {
+      "has_electrum_ingot": "2025-11-01 21:08:24 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/redstone/crafting/plating": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 21:10:38 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/exochest": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 21:10:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:oritech/exo_chest": {
+    "criteria": {
+      "got_exo_chest": "2025-11-01 21:10:49 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/exojetpack": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 21:11:12 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/exoboostedelytra": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 21:12:02 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/exoboostedelytraalt": {
+    "criteria": {
+      "has_jetpack_exo_elytra": "2025-11-01 21:57:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-11-01 22:01:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-11-01 22:01:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-11-01 22:05:59 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-11-01 22:07:21 +0900"
+    },
+    "done": true
+  },
+  "cratedelight:recipes/building_blocks/golden_carrot_crate": {
+    "criteria": {
+      "has_golden_carrot": "2025-11-01 22:07:21 +0900"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-11-01 22:10:13 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-11-01 22:10:13 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-11-01 22:10:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2025-11-01 22:14:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2025-11-01 22:14:26 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-11-01 22:21:03 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/limestone_pillar_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_limestone_bricks_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
+    "criteria": {
+      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
+    "criteria": {
+      "has_flow_armor_trim_smithing_template": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-11-01 22:31:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-11-01 22:35:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/waxed_copper_bulb": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2025-11-01 22:39:38 +0900"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-11-01 22:39:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-11-01 22:39:38 +0900"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-11-01 22:39:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-11-01 22:39:38 +0900"
     },
     "done": true
   },
@@ -14786,9 +14678,159 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "has_ingot_nickel": "2025-11-01 19:16:36 +0900"
+      "has_brick": "2025-11-01 22:39:38 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/nickel_blockblock": {
+    "criteria": {
+      "has_nickel_ingot": "2025-11-01 22:46:38 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/alloy/adamant": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 22:46:48 +0900"
+    },
+    "done": true
+  },
+  "oritech:recipes/misc/crafting/_emace": {
+    "criteria": {
+      "has_the_recipe": "2025-11-01 22:46:52 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-11-01 23:03:05 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/compression_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/decoration_table": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/alchemy_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/hopper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-11-02 00:50:27 +0900"
     },
     "done": true
   },
@@ -14810,75 +14852,9 @@
     },
     "done": true
   },
-  "oritech:recipes/misc/energite_blockblock": {
-    "criteria": {
-      "has_energite_ingot": "2025-11-01 19:20:24 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_limestone_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "dndesires:recipes/misc/crafting/fan_catalyst/dragon_breathing_sail": {
-    "criteria": {
-      "has_dragon_head": "2025-11-01 18:45:54 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/manualresin": {
-    "criteria": {
-      "has_polymer_resin": "2025-11-01 21:03:45 +0900"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_limestone_slab_from_stone_types_limestone_stonecutting": {
-    "criteria": {
-      "has_stone_types_limestone": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flow_armor_trim_smithing_template": {
-    "criteria": {
-      "has_flow_armor_trim_smithing_template": "2025-11-01 22:31:38 +0900"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-11-02 00:50:27 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
-    "criteria": {
-      "has_tuff_bricks": "2025-11-01 22:20:03 +0900"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_electrum_hammering": {
-    "criteria": {
-      "has_electrum_ingot": "2025-11-01 21:08:24 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wind_charge": {
-    "criteria": {
-      "has_breeze_rod": "2025-11-01 22:14:26 +0900"
-    },
-    "done": true
-  },
-  "oritech:recipes/misc/crafting/alloy/adamant": {
-    "criteria": {
-      "has_the_recipe": "2025-11-01 22:46:48 +0900"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flow_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-11-01 22:31:38 +0900"
     },
     "done": true
   },
@@ -14888,27 +14864,117 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "another_furniture:recipes/jungle_bench": {
     "criteria": {
-      "has_baked_potato": "2025-11-01 22:10:13 +0900"
+      "has_slab": "2025-11-02 01:03:45 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "another_furniture:recipes/jungle_shutter": {
     "criteria": {
-      "has_brick": "2025-11-01 22:39:38 +0900"
+      "has_slab": "2025-11-02 01:03:45 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+  "another_furniture:recipes/jungle_flower_box": {
     "criteria": {
-      "has_purpur_block": "2025-11-01 18:45:54 +0900"
+      "has_slab": "2025-11-02 01:03:45 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {
+  "mekanism:infusing_efficiency": {
     "criteria": {
-      "has_waxed_copper_block": "2025-11-01 22:37:10 +0900"
+      "enriched_material": "2025-11-02 01:29:45 +0900"
+    },
+    "done": true
+  },
+  "dndesires:recipes/misc/crafting/transmitter": {
+    "criteria": {
+      "has_transmitter": "2025-11-02 02:40:33 +0900"
+    },
+    "done": true
+  },
+  "create_connected:recipes/misc/crafting/kinetics/redstone_link_wildcard": {
+    "criteria": {
+      "has_item": "2025-11-02 02:40:33 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2025-11-02 02:49:59 +0900"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard_clear": {
+    "criteria": {
+      "has_item": "2025-11-02 02:58:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-11-02 16:18:43 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_aluminum_to_raw_block_aluminum": {
+    "criteria": {
+      "has_raw_aluminum": "2025-11-02 16:52:09 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_silver_to_raw_silver": {
+    "criteria": {
+      "has_raw_block_silver": "2025-11-02 16:07:50 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver_from_blasting3": {
+    "criteria": {
+      "has_raw_silver": "2025-11-02 16:07:50 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum_from_blasting3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-11-02 16:52:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-11-02 16:18:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-11-02 16:16:42 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_block_aluminum_to_raw_aluminum": {
+    "criteria": {
+      "has_raw_block_aluminum": "2025-11-02 16:52:09 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
+    "criteria": {
+      "has_raw_aluminum": "2025-11-02 16:52:09 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/raw_silver_to_raw_block_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-11-02 16:07:50 +0900"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/smelting/ingot_silver3": {
+    "criteria": {
+      "has_raw_silver": "2025-11-02 16:07:50 +0900"
     },
     "done": true
   },
